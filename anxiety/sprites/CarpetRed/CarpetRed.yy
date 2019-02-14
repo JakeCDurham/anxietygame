@@ -2,7 +2,7 @@
     "id": "63ece098-82b5-44f5-99b8-cd7a3aaf5771",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite4",
+    "name": "CarpetRed",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -50,7 +50,7 @@
             "Key": "09eaec2e-d250-41ad-b8d4-b965615c62d1",
             "Value": {
                 "id": "d0f7dd79-a761-449d-8f34-31740e631025",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourcePath": "sprites\\CeramicTile\\CeramicTile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "33d41133-f9a1-4472-a151-29456ddb3e9b",
             "Value": {
                 "id": "9f9a4c01-6968-4532-8a36-c8e244cde582",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\WoodTile\\WoodTile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -146,7 +146,7 @@
             "Key": "63ece098-82b5-44f5-99b8-cd7a3aaf5771",
             "Value": {
                 "id": "f745b987-de06-4279-911a-c99d95d823f3",
-                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourcePath": "sprites\\CarpetRed\\CarpetRed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "7d98232b-c397-4658-9d6e-33f0bcb72b69",
             "Value": {
                 "id": "0f67873f-4b35-4d3b-aac7-d80bfa47099c",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\SideTable\\SideTable.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -276,6 +276,14 @@
                 "id": "bad10449-8a48-4902-8f3c-422d0b0b14f9",
                 "resourcePath": "views\\e4e3c532-fb30-4fbe-b038-70daf2aedbb9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e76ea1d2-80b0-4bf9-b845-7f08d55512cc",
+            "Value": {
+                "id": "1a243f26-4091-4687-a8d1-53e661325b8b",
+                "resourcePath": "sprites\\Planter\\Planter.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
