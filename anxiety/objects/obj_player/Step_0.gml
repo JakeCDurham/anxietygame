@@ -1,26 +1,45 @@
 /* Movement 
-	use wasd or arrow keys to move. 
+	use wasd to move. 
 */
-if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A")) || keyboard_check_released(vk_right) || keyboard_check_released(ord("D"))
+if keyboard_check_pressed(ord("A"))
 {
 	vx += -spd;
 	facing = "left";
 }
-if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D")) || keyboard_check_released(vk_left) || keyboard_check_released(ord("A"))
+if keyboard_check_pressed(ord("D"))
 {
 	vx += spd;
 	facing = "right";
 }
-if keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W")) || keyboard_check_released(vk_down) || keyboard_check_released(ord("S"))
+if keyboard_check_pressed(ord("W"))
 {
 	vy += -spd;
 	facing = "up";
 }
-if keyboard_check_pressed(vk_down) || keyboard_check_pressed(ord("S")) || keyboard_check_released(vk_up) || keyboard_check_released(ord("W"))
+if keyboard_check_pressed(ord("S"))
 {
 	vy += spd;
 	facing = "down";
 }
+if keyboard_check_released(ord("D"))
+{
+	vx += -spd;
+}
+if keyboard_check_released(ord("A"))
+{
+	vx += spd;
+}
+if keyboard_check_released(ord("S"))
+{
+	vy += -spd;
+}
+if keyboard_check_released(ord("W"))
+{
+	vy += spd;
+}
 //update movement. 
-x += vx;
-y += vy;
+if controllable
+{
+	x += vx;
+	y += vy;
+}
