@@ -13,7 +13,10 @@
         "364348bc-a5c6-4994-bd4e-30930afb326e",
         "048d65d8-7e09-403b-a778-25527357512a",
         "92057392-e963-4fa7-80a1-18618c2b7c80",
-        "44986b44-038c-4535-a6ab-2cbdbc04575c"
+        "44986b44-038c-4535-a6ab-2cbdbc04575c",
+        "a1cffefc-282e-45d1-ae7b-24726f19d79f",
+        "651a2121-5f39-42b0-86f7-c1d3a3279518",
+        "6dd066f2-8246-441d-b761-5ba42934b7a8"
     ],
     "filterType": "GMObject",
     "folderName": "test objects",
