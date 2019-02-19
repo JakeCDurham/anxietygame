@@ -1,0 +1,10 @@
+txt = [];
+percent = [];
+waiting = []
+frame = [];
+vis = []
+locX = [];
+locY = [];
+len = 0;
+per_trigger = 80;
+rate = 1;

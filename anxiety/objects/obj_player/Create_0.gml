@@ -5,4 +5,3 @@ vy = 0;
 spd = 2;
 facing = "down";
 controllable = true;
-
