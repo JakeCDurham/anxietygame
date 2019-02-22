@@ -1,1 +1,1 @@
-/// Both should be solid and not allow passage.
+/// Both should be solid to not allow passage.

@@ -12,7 +12,7 @@ for(i = 0; i < len; i++)
 		{
 			if(percent[i] < 100)
 			{
-				percent[i]++;
+				percent[i] += rate;
 				all_done = false;
 			}
 		}
@@ -26,7 +26,7 @@ for(i = 0; i < len; i++)
 		all_done = false;
 		if percent[i] > 0
 		{
-			percent[i]--;
+			percent[i] -= rate;
 		}
 		if percent[i] % 3 == 0 && frame[i] > 0
 		{
