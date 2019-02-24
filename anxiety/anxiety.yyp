@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "4c681d58-d184-48d2-9b8e-98598bf60acd",
+            "Value": {
+                "id": "b4f28166-5896-4d37-94a5-13a7c21da9fc",
+                "resourcePath": "objects\\obj_hud\\obj_hud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4de924c4-f779-4edd-a346-11ea81398e17",
             "Value": {
                 "id": "47cec3a5-a75d-4370-b5b0-0fdb98b0d49d",
@@ -692,6 +700,14 @@
                 "id": "3b673686-e7c9-4051-894a-6ff48a746545",
                 "resourcePath": "objects\\obj_Wall2\\obj_Wall2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f045ee37-5045-43be-9063-19106ed662ae",
+            "Value": {
+                "id": "b2504bf1-c2f0-46ca-88fd-410f21124511",
+                "resourcePath": "sprites\\Phone\\Phone.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
