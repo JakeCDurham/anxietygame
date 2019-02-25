@@ -1,8 +1,16 @@
 var all_done = true;
 for(i = 0; i < len; i++)
 {
+	if keyboard_check_pressed(ord(txt[i]))
+	{
+		pressed[i] = true;
+	}
+	if keyboard_check_released(ord(txt[i]))
+	{
+		pressed[i] = false;
+	}
 	//if the key is pressed
-	if keyboard_check(ord(txt[i]))
+	if pressed[i]
 	{
 		if waiting[i]
 		{
@@ -53,3 +61,5 @@ if all_done
 {
 	instance_destroy(self);
 }
+
+time_left = endtime - starttime;

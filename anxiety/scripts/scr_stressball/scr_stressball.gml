@@ -17,13 +17,15 @@ inst.waiting[0] = false;
 inst.frame[0] = 0;
 inst.vis[0] = true;
 inst.percent[0] = 0;
+inst.pressed[0] = false;
 
 for(i = 1; i < inst.len; i++)
 {
 	inst.waiting[i] = true;
 	inst.frame[i] = 0;
 	inst.vis[i] = false;
-	inst.percent[0] = 0;
+	inst.percent[i] = 0;
+	inst.pressed[i] = false;
 }
 
 return inst;
