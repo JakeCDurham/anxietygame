@@ -9,7 +9,3 @@ locY = [];
 len = 0;
 per_trigger = 80;
 rate = 1;
-time_limit = 30;
-starttime = current_second;
-endtime = starttime + time_limit;
-time_left = endtime - starttime;
