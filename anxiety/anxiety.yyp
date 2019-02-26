@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "a3041beb-61e3-4c08-bf1c-88baecd02a6b",
+            "Value": {
+                "id": "60a2bd96-2a57-4ab3-b6bf-58a72817042f",
+                "resourcePath": "sprites\\CatSleeping\\CatSleeping.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7ce38a5-cfa9-4091-821e-6ddc1098f02f",
             "Value": {
                 "id": "8316fa0f-a23b-4890-92bd-c47a01c7e05a",
@@ -603,6 +611,14 @@
             "Value": {
                 "id": "b64f90a7-f844-4f4a-82da-543b17e4ab3a",
                 "resourcePath": "objects\\par_wall\\par_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cc5ba0e3-8ade-4036-99ac-59d602cb230d",
+            "Value": {
+                "id": "6691b071-0a24-48c1-baa0-a33eae0444f0",
+                "resourcePath": "objects\\obj_CatSleeping\\obj_CatSleeping.yy",
                 "resourceType": "GMObject"
             }
         },
