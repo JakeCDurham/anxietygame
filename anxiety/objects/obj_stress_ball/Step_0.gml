@@ -61,3 +61,5 @@ if all_done
 {
 	instance_destroy(self);
 }
+
+time_left = endtime - starttime;

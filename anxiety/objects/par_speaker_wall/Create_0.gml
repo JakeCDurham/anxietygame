@@ -2,7 +2,7 @@
 //-----------Customise (FOR USER)
 playerobject = obj_player;
 interact_key = vk_space;
-detection_radius = 60;
+detection_radius = 150;
 
 myVoice			= snd_voice1;
 myPortrait		= -1;

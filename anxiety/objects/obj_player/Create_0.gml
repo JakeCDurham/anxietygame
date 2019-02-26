@@ -1,5 +1,5 @@
 //Local variables
-global.anxiety = 0;
+anxiety = 0;
 vx = 0; 
 vy = 0;
 spd = 2;
