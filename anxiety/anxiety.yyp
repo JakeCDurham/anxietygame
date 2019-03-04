@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "98db9a4b-2918-4cff-bb67-4fbaf5404add",
+            "Value": {
+                "id": "c16c9e87-7e25-4bb9-889b-8da12d526825",
+                "resourcePath": "objects\\obj_flyingDialog\\obj_flyingDialog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9acdd8aa-8f80-40b6-bdf2-ef07cef7b45f",
             "Value": {
                 "id": "4355dfdf-3e12-4d90-b1ee-e1cd72b88a4b",
