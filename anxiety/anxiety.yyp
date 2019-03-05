@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "250013e3-11b0-4c09-976d-21208c6fe215",
+            "Value": {
+                "id": "fb794fc3-0081-4efc-9d63-9d273480f471",
+                "resourcePath": "sprites\\BedSheet\\BedSheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "25a31f9e-cd85-4f38-b636-321e6d0dd066",
             "Value": {
                 "id": "06660234-e898-4c2a-a508-cc001a710520",
@@ -207,11 +215,27 @@
             }
         },
         {
+            "Key": "32e19ef5-2444-4f77-8ef8-ebfd44d25317",
+            "Value": {
+                "id": "75f35028-dcad-4db0-8bb9-0c3895ec1634",
+                "resourcePath": "objects\\obj_ClockMinute\\obj_ClockMinute.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33d41133-f9a1-4472-a151-29456ddb3e9b",
             "Value": {
                 "id": "9f9a4c01-6968-4532-8a36-c8e244cde582",
                 "resourcePath": "sprites\\WoodTile\\WoodTile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "35c6c509-3e13-457f-bf5d-554e649c7d86",
+            "Value": {
+                "id": "a49c8f97-f1db-4d00-9feb-c622daacec77",
+                "resourcePath": "objects\\obj_Hour\\obj_Hour.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +375,14 @@
             }
         },
         {
+            "Key": "56107783-593c-42df-b410-d72a00f46113",
+            "Value": {
+                "id": "5d274e37-c464-4b94-b95e-0f0868b8f7a7",
+                "resourcePath": "sprites\\ClockMinute\\ClockMinute.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "57dec62d-9ad0-4d05-85bf-948c81f5184b",
             "Value": {
                 "id": "ff08ac0a-8fd5-42f7-a79d-dee0542831a1",
@@ -415,6 +447,14 @@
             }
         },
         {
+            "Key": "68e66466-1ace-4fdc-8ce9-ee39782cffc8",
+            "Value": {
+                "id": "719be5ca-b13b-4b6b-8cb3-bc1774b10367",
+                "resourcePath": "objects\\obj_BedSheet\\obj_BedSheet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6c014ec3-5a65-4f54-bbd8-ef31d083b7be",
             "Value": {
                 "id": "977d34ca-cb34-4f36-9e0e-bee71fcb99ee",
@@ -452,6 +492,14 @@
                 "id": "153a876a-df2b-43dc-a269-0c56bc07d040",
                 "resourcePath": "sprites\\spr_portrait_player\\spr_portrait_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "767f17e7-0050-489c-a83a-485d8e64e3b8",
+            "Value": {
+                "id": "f901189e-f79f-4b56-a6e4-27e951e02959",
+                "resourcePath": "objects\\obj_ClockBody\\obj_ClockBody.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -719,11 +767,27 @@
             }
         },
         {
+            "Key": "d3f8a605-7733-4037-b8e3-9f2c3cf7d278",
+            "Value": {
+                "id": "b3306d91-924c-4995-8da0-877b650272c8",
+                "resourcePath": "sprites\\ClockBody\\ClockBody.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5560630-f878-4662-abba-28dafcf3f8cd",
             "Value": {
                 "id": "1cf0aa3d-d887-4901-80d9-879acf417842",
                 "resourcePath": "objects\\obj_Bed\\obj_Bed.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d56a5322-e424-4519-8c4d-01bcd2ba6d07",
+            "Value": {
+                "id": "6fd9257b-babc-4b20-8814-19c6685866ba",
+                "resourcePath": "sprites\\ClockHour\\ClockHour.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
