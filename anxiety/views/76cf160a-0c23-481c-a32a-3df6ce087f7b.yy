@@ -24,7 +24,11 @@
         "767f17e7-0050-489c-a83a-485d8e64e3b8",
         "32e19ef5-2444-4f77-8ef8-ebfd44d25317",
         "35c6c509-3e13-457f-bf5d-554e649c7d86",
-        "68e66466-1ace-4fdc-8ce9-ee39782cffc8"
+        "68e66466-1ace-4fdc-8ce9-ee39782cffc8",
+        "ee63b157-48f8-400f-ae36-a37f63936c6d",
+        "40014458-5b37-43ec-adc6-689975a01d16",
+        "893d9a0c-4a78-40f9-b871-7497150495a7",
+        "0db616c0-e176-45ec-a05d-762ee2decc89"
     ],
     "filterType": "GMObject",
     "folderName": "test objects",
