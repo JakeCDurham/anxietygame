@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "14e2e72b-7bf4-4aa9-b3a7-1bba1a828a76",
+            "Value": {
+                "id": "b9ca234c-f2c8-46c4-8b4a-f01a49021029",
+                "resourcePath": "sprites\\CatFoodBowl\\CatFoodBowl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "160f6c48-4684-4009-986b-73d8b15fd66b",
             "Value": {
                 "id": "78a88128-007e-42f1-910c-5a7e6613bd2d",
@@ -139,6 +147,22 @@
             "Value": {
                 "id": "b1f1fe5e-9c0d-4e03-8489-e973de032fe6",
                 "resourcePath": "sprites\\spr_emotes\\spr_emotes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1a7f1694-46fd-48d2-9389-bd703a8451a3",
+            "Value": {
+                "id": "a5cef46c-49ca-4d7d-812c-0f7ac64e45fd",
+                "resourcePath": "objects\\obj_Fridge\\obj_Fridge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1ccf2cd8-8714-4ea3-9205-63aaa3c2eef0",
+            "Value": {
+                "id": "16921f29-3101-44b7-b9a7-04d1ef727c92",
+                "resourcePath": "sprites\\BathroomTile\\BathroomTile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +239,14 @@
             }
         },
         {
+            "Key": "302ed1f6-a728-419e-9089-95a575133ceb",
+            "Value": {
+                "id": "176a0d8e-b22f-46ac-9465-ca706ec8c905",
+                "resourcePath": "objects\\obj_DoorOpen\\obj_DoorOpen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31b17952-26bc-4dd3-8953-57f6751fe570",
             "Value": {
                 "id": "785e1674-d2e1-4729-b414-27004ae739c5",
@@ -274,7 +306,7 @@
             "Key": "39172308-6cd7-409b-b87f-116fc10a2a01",
             "Value": {
                 "id": "014543f7-d337-4da7-9dc7-7f47ceaf72f9",
-                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourcePath": "sprites\\TopWallL\\TopWallL.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -340,6 +372,14 @@
                 "id": "57ed5fcc-520d-46fd-ba4e-d952bbd25e7e",
                 "resourcePath": "objects\\obj_SideTable\\obj_SideTable.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "49e0b4d1-b939-49a2-bc8b-fab1a66d61fb",
+            "Value": {
+                "id": "fd0d6d52-5d64-4df1-82e3-4552589b6177",
+                "resourcePath": "sprites\\CatFoodFull\\CatFoodFull.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -434,15 +474,23 @@
             "Key": "5b760e17-8c24-4034-ae38-ac86bd86b4b3",
             "Value": {
                 "id": "b91cf82b-4132-4543-a5fe-70e9ace27e42",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\\TopWallU\\TopWallU.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ca734eb-b681-4171-98a3-b245cf8dbf17",
+            "Value": {
+                "id": "c85401a4-d29c-4c45-937a-145b89c4c643",
+                "resourcePath": "objects\\obj_CatFoodBowlEmpty\\obj_CatFoodBowlEmpty.yy",
+                "resourceType": "GMObject"
             }
         },
         {
             "Key": "63dece2b-8753-4577-84a7-62bd3ff096d1",
             "Value": {
                 "id": "329109fb-024f-4ac9-9987-eb7a8d0ddac2",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourcePath": "sprites\\TopWall\\TopWall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -540,6 +588,14 @@
                 "id": "b815e990-3093-4e64-8301-ddedea012f26",
                 "resourcePath": "views\\76cf160a-0c23-481c-a32a-3df6ce087f7b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79e090ab-3c76-4e73-a2cd-4bc6500b6b9e",
+            "Value": {
+                "id": "a44cd952-80e3-4b22-a85f-c5f47b096ba2",
+                "resourcePath": "objects\\obj_CatFoodBag\\obj_CatFoodBag.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -695,6 +751,14 @@
             }
         },
         {
+            "Key": "a95c34d3-a547-4064-b5b6-ee1cd6a2ab92",
+            "Value": {
+                "id": "49f7a624-5d0a-432e-ac5c-ac7d1a0d296e",
+                "resourcePath": "sprites\\CatFoodBag\\CatFoodBag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "adc18728-6774-4ede-b357-190f161a4490",
             "Value": {
                 "id": "52364c25-4c4c-4d18-8ef7-e28bca3c6dcd",
@@ -739,6 +803,14 @@
             "Value": {
                 "id": "9d571dd2-48c2-455d-aadb-21cea272e82d",
                 "resourcePath": "sprites\\Toilet\\Toilet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be863c18-58c4-4a88-bc0a-d85d6b734109",
+            "Value": {
+                "id": "abc28194-2bca-4e84-a6a8-40d78788d632",
+                "resourcePath": "sprites\\PlayerSpriteDown\\PlayerSpriteDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +903,14 @@
             }
         },
         {
+            "Key": "d5456e7f-78c8-4da3-801f-644c4d580744",
+            "Value": {
+                "id": "03d983d5-ff33-4da3-91fa-3fccde2a03d4",
+                "resourcePath": "sprites\\PlayerSpriteUp\\PlayerSpriteUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d5560630-f878-4662-abba-28dafcf3f8cd",
             "Value": {
                 "id": "1cf0aa3d-d887-4901-80d9-879acf417842",
@@ -868,6 +948,14 @@
                 "id": "80422de0-490d-4b2b-8380-d390623024ce",
                 "resourcePath": "objects\\obj_Wall1\\obj_Wall1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e39ea243-99d9-4d86-82e4-fb069e853729",
+            "Value": {
+                "id": "1754b57b-04a3-493c-a9ad-d2f9a2b3a6f6",
+                "resourcePath": "sprites\\Fridge\\Fridge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -972,6 +1060,14 @@
                 "id": "7dbbf510-eaa0-4adf-913b-b51e0a5e08c0",
                 "resourcePath": "views\\f8b54144-f7a0-478a-9e3f-cae3d97378ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f924a0b0-a85b-4d66-b9d0-6479bede6b37",
+            "Value": {
+                "id": "a002fd41-6a05-4156-ada9-140cc857bc91",
+                "resourcePath": "sprites\\DoorOpening\\DoorOpening.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
