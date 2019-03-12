@@ -2,45 +2,45 @@
 	use wasd to move. 
 */
 if instance_exists(obj_stress_ball) || instance_exists(obj_textbox) {exit;}
-if keyboard_check_released(ord("D"))
-{
-	vx = 0;
+var seconds_passed = delta_time/1000000;
+var move_speed_this_frame = spd*seconds_passed;
+
+var move_xinput = 0;
+var move_yinput = 0;
+ 
+for ( var i = 0; i < array_length_1d(movement_inputs); i++){
+    var this_key = movement_inputs[i];
+    if keyboard_check(this_key) {
+        var this_angle = i*90;
+        move_xinput += lengthdir_x(1, this_angle);
+        move_yinput += lengthdir_y(1, this_angle);
+    }
 }
-if keyboard_check_released(ord("A"))
-{
-	vx = 0;
+ 
+var moving = ( point_distance(0,0,move_xinput,move_yinput) > 0 );
+if moving  {
+    image_speed = 0.5;
+	var move_dir = point_direction(0,0,move_xinput,move_yinput);
+    move(move_speed_this_frame,  move_dir);
+	if move_dir >= 45 && move_dir < 135
+	{
+		facing = "Up";	
+	}
+	else if move_dir >= 135 && move_dir < 225
+	{
+		facing = "Left";	
+	}
+	else if move_dir >= 225 && move_dir < 315
+	{
+		facing = "Down";	
+	}
+	else
+	{
+		facing = "Right";	
+	}
 }
-if keyboard_check_released(ord("S"))
+else
 {
-	vy = 0;
-}
-if keyboard_check_released(ord("W"))
-{
-	vy = 0;
-}
-if keyboard_check_pressed(ord("A"))
-{
-	vx += -spd;
-	facing = "left";
-}
-if keyboard_check_pressed(ord("D"))
-{
-	vx += spd;
-	facing = "right";
-}
-if keyboard_check_pressed(ord("W"))
-{
-	vy += -spd;
-	facing = "up";
-}
-if keyboard_check_pressed(ord("S"))
-{
-	vy += spd;
-	facing = "down";
-}
-//update movement. 
-if controllable
-{
-	x += vx;
-	y += vy;
+	image_speed = 0;
+	image_index = 0;
 }
