@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_ClockBody",
     "eventList": [
-        
+        {
+            "id": "c6ca6e83-5082-4bae-a571-971406c2ee33",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "767f17e7-0050-489c-a83a-485d8e64e3b8"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
