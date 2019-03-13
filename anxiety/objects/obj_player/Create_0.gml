@@ -11,3 +11,6 @@ movement_inputs[3] = ord("S");
 
 //direction
 facing = "Down";
+
+//Basic Inventory
+has_keys = false;
