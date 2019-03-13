@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 mySpeaker = -1;
-myText[0] = "This clock was my grandfather's way back in the day."
+myText[0] = "This grandfather clock was unsurprisingly given to me by my grandfather."

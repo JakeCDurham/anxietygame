@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "9959892e-e678-4045-9ced-c947a93368bd",
+            "Value": {
+                "id": "b7372960-1904-437e-937c-ace254df5640",
+                "resourcePath": "scripts\\relieve_anxiety\\relieve_anxiety.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9acdd8aa-8f80-40b6-bdf2-ef07cef7b45f",
             "Value": {
                 "id": "4355dfdf-3e12-4d90-b1ee-e1cd72b88a4b",
@@ -788,6 +796,14 @@
                 "id": "a9efb608-5ace-46de-a8b1-c9b985c6aeaa",
                 "resourcePath": "views\\b0f50a63-9b28-442a-8a40-b8817480db7a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b1eee4c4-f4c8-4cdc-86ea-ee7317f5a690",
+            "Value": {
+                "id": "6afa8c23-fa25-4b3d-8528-20d8581c91ac",
+                "resourcePath": "scripts\\update_anxiety\\update_anxiety.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1129,7 +1145,9 @@
         "02a93034-8f6e-4718-a90d-ef3a3edfc5ae",
         "8f3b9c4e-d64f-4f9a-93d7-11dcfa3aed09",
         "fcbdb1c9-8dca-431d-aeaf-a0a38e8c34f2",
-        "8a22b51d-b394-4eec-b87f-a9b19acf8ff7"
+        "8a22b51d-b394-4eec-b87f-a9b19acf8ff7",
+        "b1eee4c4-f4c8-4cdc-86ea-ee7317f5a690",
+        "9959892e-e678-4045-9ced-c947a93368bd"
     ],
     "tutorial": ""
 }
