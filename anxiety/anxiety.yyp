@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0f39fe61-af9c-4865-a203-6f82e28995e1",
+            "Value": {
+                "id": "78672b3c-51ff-4131-aa35-d27b76e71905",
+                "resourcePath": "sprites\\tiles_home\\tiles_home.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1182862b-7005-4225-b949-bbe837442bc9",
             "Value": {
                 "id": "dbcd07d1-05b5-4094-9fe5-f1507c803425",
@@ -247,14 +255,6 @@
             }
         },
         {
-            "Key": "2ea43a5d-eadf-41d6-8584-7174ac7c54bb",
-            "Value": {
-                "id": "9640268c-4be8-47ab-9393-aea41af5c33f",
-                "resourcePath": "objects\\obj_WoodTile\\obj_WoodTile.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "302ed1f6-a728-419e-9089-95a575133ceb",
             "Value": {
                 "id": "176a0d8e-b22f-46ac-9465-ca706ec8c905",
@@ -387,14 +387,6 @@
             "Value": {
                 "id": "b4f28166-5896-4d37-94a5-13a7c21da9fc",
                 "resourcePath": "objects\\obj_hud\\obj_hud.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "4de924c4-f779-4edd-a346-11ea81398e17",
-            "Value": {
-                "id": "47cec3a5-a75d-4370-b5b0-0fdb98b0d49d",
-                "resourcePath": "objects\\obj_CheckerTile\\obj_CheckerTile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -996,6 +988,14 @@
                 "id": "1a243f26-4091-4687-a8d1-53e661325b8b",
                 "resourcePath": "sprites\\Planter\\Planter.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e9b72ada-a358-4d8c-840b-dff441b79315",
+            "Value": {
+                "id": "a412ee34-5204-4043-8c18-892ebae2a1bf",
+                "resourcePath": "tilesets\\home\\home.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
