@@ -935,6 +935,14 @@
             }
         },
         {
+            "Key": "d27befe9-c838-4048-b0d6-a366e2be256f",
+            "Value": {
+                "id": "ad2cf419-8317-4ed5-9445-d175999a0ffa",
+                "resourcePath": "objects\\obj_transferDoor\\obj_transferDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d39f6b82-4667-43a2-b1ed-5b08708dea91",
             "Value": {
                 "id": "71cdaeca-f206-42e5-8133-27d5a8a1ec5a",
