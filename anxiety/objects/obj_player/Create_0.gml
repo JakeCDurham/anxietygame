@@ -10,6 +10,7 @@ movement_inputs[3] = ord("S");
 
 //direction
 facing = "Down";
+image_speed = 0;
 
 //Basic Inventory
 has_keys = false;

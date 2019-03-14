@@ -1,7 +1,11 @@
 /* Movement 
 	use wasd to move. 
 */
-if instance_exists(obj_stress_ball) || instance_exists(obj_textbox) {exit;}
+if instance_exists(obj_stress_ball) || instance_exists(obj_textbox) 
+{
+	image_speed = 0;
+	exit;
+}
 var seconds_passed = delta_time/1000000;
 var move_speed_this_frame = spd*seconds_passed;
 
@@ -43,4 +47,12 @@ else
 {
 	image_speed = 0;
 	image_index = 0;
+}
+
+//Anxiety control.
+if global.anxiety > 5 {global.anxiety = 5;}
+if global.anxiety < 0 {global.anxiety = 0;}
+if global.anxiety == 5 && !instance_exists(obj_breath)
+{
+		instance_create_depth(x,y,1,obj_breath);
 }

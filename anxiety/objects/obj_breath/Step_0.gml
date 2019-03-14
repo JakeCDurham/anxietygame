@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 rad += spd;
-if rad >= edge || rad < cent
+if rad + spd >= edge || rad + spd < cent
 {
 	spd *= -1;
 }
