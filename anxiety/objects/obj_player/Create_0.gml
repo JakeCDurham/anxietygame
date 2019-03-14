@@ -1,5 +1,4 @@
 //Local variables
-global.anxiety = 0;
 spd = 100;
 controllable = true;
 
