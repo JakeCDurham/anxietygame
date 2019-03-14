@@ -30,4 +30,4 @@ draw_set_alpha(.75);
 draw_circle_color(x,y,cent-2,c_black,c_black,false);
 draw_set_alpha(1);
 draw_set_color(c_white);
-draw_text(x-60,y,"BREATH");
+draw_text(x-60,y,"BREATHE");
