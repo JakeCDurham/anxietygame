@@ -1,0 +1,33 @@
+/// @description Insert description here
+// You can write your code in this editor
+draw_set_color(c_red);
+draw_circle(x,y,rad,true);
+draw_circle(x,y,rad+1,true);
+draw_circle(x,y,rad+2,true);
+draw_circle(x,y,rad+3,true);
+draw_circle(x,y,rad+4,true);
+draw_circle(x,y,rad+5,true);
+draw_circle(x,y,rad+6,true);
+draw_set_color(edge_color);
+draw_circle(x,y,edge,true);
+draw_circle(x,y,edge+1,true);
+draw_circle(x,y,edge+2,true);
+draw_circle(x,y,edge+3,true);
+draw_circle(x,y,edge+4,true);
+draw_circle(x,y,edge+5,true);
+draw_circle(x,y,edge+6,true);
+draw_set_color(cent_color);
+draw_circle(x,y,cent,true);
+draw_circle(x,y,cent+1,true);
+draw_circle(x,y,cent+2,true);
+draw_circle(x,y,cent+3,true);
+draw_circle(x,y,cent+4,true);
+draw_circle(x,y,cent+5,true);
+draw_circle(x,y,cent+6,true);
+draw_set_font(Fnt_StressBall);
+draw_set_color(c_black);
+draw_set_alpha(.75);
+draw_circle_color(x,y,cent-2,c_black,c_black,false);
+draw_set_alpha(1);
+draw_set_color(c_white);
+draw_text(x-60,y,"BREATH");

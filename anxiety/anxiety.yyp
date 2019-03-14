@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "c63d599f-c2ba-4602-9a45-1ddcd1f22eed",
+            "Value": {
+                "id": "d1a6add5-cccb-4cd4-bb68-81fa38359b02",
+                "resourcePath": "objects\\obj_breath\\obj_breath.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8169304-7db0-4d7e-9649-77b2ee0a639b",
             "Value": {
                 "id": "b64f90a7-f844-4f4a-82da-543b17e4ab3a",
