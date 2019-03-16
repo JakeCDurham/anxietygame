@@ -35,7 +35,7 @@ if t == 0
 {
 	stress++;
 }
-if stress == 100
+if stress == 40
 {
 	stress = 0;
 	global.anxiety++;	

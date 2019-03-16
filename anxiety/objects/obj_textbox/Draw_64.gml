@@ -1,4 +1,5 @@
 //Draw textbox
+if instance_exists(obj_flyingDialog) {exit;}
 draw_sprite_ext(dialogue_box, 0, pos_x,pos_y, scale,scale, 0, c_white, 1);
 
 //Draw portrait

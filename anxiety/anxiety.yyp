@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "4c7ceaba-3455-432d-be16-d098f043caf8",
+            "Value": {
+                "id": "481a5828-4234-4e99-84dc-f15c31e1fafa",
+                "resourcePath": "scripts\\scr_flyingWords\\scr_flyingWords.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "50b8dd3b-b73b-4e18-b1bd-73d9d1428048",
             "Value": {
                 "id": "3c6b0406-0144-4f6d-b3f7-753800a4602b",
@@ -471,6 +479,14 @@
             }
         },
         {
+            "Key": "530c234f-f8d8-4fa4-8c60-dd4517a9693c",
+            "Value": {
+                "id": "d32742bc-477b-4eb3-96c7-ffa154b78d22",
+                "resourcePath": "objects\\obj_talkingPractice\\obj_talkingPractice.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "544e46ab-3cd0-4567-a481-89dd3ecded44",
             "Value": {
                 "id": "cbfd16fd-a5a7-44a4-9b97-8bc72740ffc1",
@@ -484,6 +500,14 @@
                 "id": "5d274e37-c464-4b94-b95e-0f0868b8f7a7",
                 "resourcePath": "sprites\\ClockMinute\\ClockMinute.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5663f647-e703-4674-872e-a19bd9ec4087",
+            "Value": {
+                "id": "d8214035-ac1c-4041-b9b5-3411d22432bf",
+                "resourcePath": "fonts\\fnt_flyers\\fnt_flyers.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1299,7 +1323,8 @@
         "fcbdb1c9-8dca-431d-aeaf-a0a38e8c34f2",
         "8a22b51d-b394-4eec-b87f-a9b19acf8ff7",
         "b1eee4c4-f4c8-4cdc-86ea-ee7317f5a690",
-        "9959892e-e678-4045-9ced-c947a93368bd"
+        "9959892e-e678-4045-9ced-c947a93368bd",
+        "4c7ceaba-3455-432d-be16-d098f043caf8"
     ],
     "tutorial": ""
 }
