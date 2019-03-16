@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 detection_radius = 70;
-myText[2] = "The time is " + string(current_hour) +":"+string(current_minute) + ".";
+myText[2] = "It says it's " + string(current_hour) +":"+string(current_minute) + ".";
 

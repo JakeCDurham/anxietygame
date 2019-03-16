@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_PictureFrame",
     "eventList": [
-        
+        {
+            "id": "5481260d-6d34-4431-b539-a4fee78b3005",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b33d225e-f3ba-4aff-b112-9818a5d40e20"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
