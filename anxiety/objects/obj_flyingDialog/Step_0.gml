@@ -38,5 +38,6 @@ if t == 0
 if stress == 40
 {
 	stress = 0;
-	global.anxiety++;	
+	if(global.anxiety < 5)
+		global.anxiety++;	
 }

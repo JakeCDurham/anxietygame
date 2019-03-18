@@ -16,5 +16,5 @@ else
 	draw_sprite_ext(spr_stress_ball,frame[0],500,500,2,2,0,c_white,1);
 	draw_set_font(Fnt_StressBall);
 	draw_set_color(c_black);
-	draw_text(460,490, "CLICK");
+	draw_text(457,485, "CLICK");
 }

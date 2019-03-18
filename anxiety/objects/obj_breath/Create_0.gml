@@ -10,3 +10,4 @@ edge_color = c_green;
 cent_color = c_white;
 x = display_get_gui_width()/2;
 y = display_get_gui_height()/2;
+create_textevent(["Your anxiety is causing you to hyperventilate.", "Press space when the red and green rings meet to slow your breathing."],-1,-1,1,1,-1, [scr_null]);
