@@ -32,7 +32,9 @@
         "b33d225e-f3ba-4aff-b112-9818a5d40e20",
         "7d5d2000-3912-4290-922b-88a1bafc89f3",
         "79c8b50a-f4c5-4d54-8639-7e335ec8a4f8",
-        "00734a86-ab57-4c10-87a9-0d39ea068b0f"
+        "00734a86-ab57-4c10-87a9-0d39ea068b0f",
+        "62dee724-5098-4c1d-baf4-e056cc406331",
+        "45c485c6-cec0-48e8-b286-c3c4d4063c7d"
     ],
     "filterType": "GMObject",
     "folderName": "Home",
