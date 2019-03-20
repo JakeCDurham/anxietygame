@@ -14,4 +14,4 @@ myText[4] = "\"Miracle cure\" kills fifth patient, doctors say.";
 myText[5] = "...";
 myText[6] = "That is enough TV for now.";
 myNextLine = [1, [2, 3, 4], 5, 5, 5, 6];
-myScripts = [scr_null, scr_null, scr_null, [update_anxiety], scr_null, scr_null];
+myScripts = [scr_null, scr_null, scr_null, [update_anxiety, 2], scr_null, scr_null];
