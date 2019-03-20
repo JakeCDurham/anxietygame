@@ -1,3 +1,10 @@
+//Anxiety control.
+if global.anxiety > 5 {global.anxiety = 5;}
+if global.anxiety < 0 {global.anxiety = 0;}
+if global.anxiety == 5 && !instance_exists(obj_breath)
+{
+		instance_create_depth(x,y,1,obj_breath);
+}
 /* Movement 
 	use wasd to move. 
 */
@@ -49,10 +56,3 @@ else
 	image_index = 0;
 }
 
-//Anxiety control.
-if global.anxiety > 5 {global.anxiety = 5;}
-if global.anxiety < 0 {global.anxiety = 0;}
-if global.anxiety == 5 && !instance_exists(obj_breath)
-{
-		instance_create_depth(x,y,1,obj_breath);
-}
