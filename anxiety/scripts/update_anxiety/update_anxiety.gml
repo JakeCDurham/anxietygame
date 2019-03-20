@@ -1,2 +1,3 @@
-if(global.anxiety < 5)
+var cap = argument0;
+if(global.anxiety < argument0)
 	global.anxiety++;
