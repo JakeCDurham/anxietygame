@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "04fdf0ad-e578-4283-96eb-fbdf3248d4f5",
+            "Value": {
+                "id": "c73e003e-76a3-4a34-a5a8-0327f610896a",
+                "resourcePath": "sprites\\Pancakes\\Pancakes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "05ed12d1-d4c4-464b-9b4c-496fbd578a65",
             "Value": {
                 "id": "67f53df8-f542-4156-850b-00730b48e007",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "1331bf21-1895-4021-b2b7-8d0c0b14b22f",
+            "Value": {
+                "id": "3f6945ab-b0ec-4951-97f3-635ba9c311e2",
+                "resourcePath": "sprites\\DoorClosed\\DoorClosed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14e2e72b-7bf4-4aa9-b3a7-1bba1a828a76",
             "Value": {
                 "id": "b9ca234c-f2c8-46c4-8b4a-f01a49021029",
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "a5cef46c-49ca-4d7d-812c-0f7ac64e45fd",
                 "resourcePath": "objects\\obj_Fridge\\obj_Fridge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1b78c63c-0789-4133-b7dc-01a11f80bbe9",
+            "Value": {
+                "id": "2026f6fe-0e5e-4972-9058-db921f487391",
+                "resourcePath": "objects\\obj_Pancakes\\obj_Pancakes.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -775,6 +799,14 @@
             }
         },
         {
+            "Key": "8a306a87-0a88-4f35-a95a-1d6c28be8b76",
+            "Value": {
+                "id": "942acdba-94ea-4bcf-b21d-d97cfd1921bc",
+                "resourcePath": "objects\\obj_DresserShirt\\obj_DresserShirt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b2cf938-caed-4d77-9608-77c8d19215a0",
             "Value": {
                 "id": "de2c0ed5-df67-4395-81e8-36b79598cf17",
@@ -911,6 +943,14 @@
             }
         },
         {
+            "Key": "a50eeba8-1a04-4f2b-bc05-c48e8d16eab0",
+            "Value": {
+                "id": "20c518cc-8e26-46f8-a06e-4966a6c6da90",
+                "resourcePath": "objects\\obj_Bacon\\obj_Bacon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a7ce38a5-cfa9-4091-821e-6ddc1098f02f",
             "Value": {
                 "id": "8316fa0f-a23b-4890-92bd-c47a01c7e05a",
@@ -972,6 +1012,14 @@
                 "id": "27ee518f-6874-4db6-99e8-028763ccbb73",
                 "resourcePath": "objects\\obj_transfer\\obj_transfer.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b908bdf7-6f2f-4cdb-873a-43b9300523fb",
+            "Value": {
+                "id": "8b63a624-5cb2-4b0a-b70f-8d7961146307",
+                "resourcePath": "sprites\\DresserShirt\\DresserShirt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1151,6 +1199,14 @@
             }
         },
         {
+            "Key": "d74c55ca-4153-4e53-a1a9-a639eebeaa5f",
+            "Value": {
+                "id": "91e14727-5fa8-4ccc-9e85-167468c0351f",
+                "resourcePath": "sprites\\Bacon\\Bacon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d786b56f-fee0-4d70-b50b-91679b618891",
             "Value": {
                 "id": "b4c42dc4-0d08-4fcf-9082-bba68617c64a",
@@ -1164,6 +1220,14 @@
                 "id": "6f88a770-b739-4e33-a337-dd731e58ecb6",
                 "resourcePath": "views\\dfc3ebbd-24cd-4606-8056-7cb4196cf863.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e10cd74b-6263-4444-80b1-8bc114452d98",
+            "Value": {
+                "id": "99b82624-59d4-474e-8c19-117e0f456f3d",
+                "resourcePath": "objects\\obj_DoorClosed\\obj_DoorClosed.yy",
+                "resourceType": "GMObject"
             }
         },
         {
