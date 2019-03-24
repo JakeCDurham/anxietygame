@@ -37,8 +37,7 @@
         "45c485c6-cec0-48e8-b286-c3c4d4063c7d",
         "e10cd74b-6263-4444-80b1-8bc114452d98",
         "1b78c63c-0789-4133-b7dc-01a11f80bbe9",
-        "a50eeba8-1a04-4f2b-bc05-c48e8d16eab0",
-        "8a306a87-0a88-4f35-a95a-1d6c28be8b76"
+        "a50eeba8-1a04-4f2b-bc05-c48e8d16eab0"
     ],
     "filterType": "GMObject",
     "folderName": "Home",

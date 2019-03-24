@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "55220db0-1d73-44a9-bd75-0a18ed6e5955",
+            "Value": {
+                "id": "de11eaf4-4d97-404d-b4eb-f6549a073edb",
+                "resourcePath": "scripts\\scr_get_dressed\\scr_get_dressed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "56107783-593c-42df-b410-d72a00f46113",
             "Value": {
                 "id": "5d274e37-c464-4b94-b95e-0f0868b8f7a7",
@@ -783,6 +791,14 @@
             }
         },
         {
+            "Key": "87427af5-8279-4a1c-94de-6a3ef1bbd27b",
+            "Value": {
+                "id": "5dc3fb86-6476-47ba-94b4-800f975f4237",
+                "resourcePath": "scripts\\scr_create_instance\\scr_create_instance.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "893d9a0c-4a78-40f9-b871-7497150495a7",
             "Value": {
                 "id": "b8dc5c61-f4e4-4535-aec9-76c4756ab7bb",
@@ -796,14 +812,6 @@
                 "id": "7a6e9389-9f13-4275-a37b-80c8e161cf9b",
                 "resourcePath": "scripts\\scr_destroy\\scr_destroy.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "8a306a87-0a88-4f35-a95a-1d6c28be8b76",
-            "Value": {
-                "id": "942acdba-94ea-4bcf-b21d-d97cfd1921bc",
-                "resourcePath": "objects\\obj_DresserShirt\\obj_DresserShirt.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1420,7 +1428,9 @@
         "8a22b51d-b394-4eec-b87f-a9b19acf8ff7",
         "b1eee4c4-f4c8-4cdc-86ea-ee7317f5a690",
         "9959892e-e678-4045-9ced-c947a93368bd",
-        "4c7ceaba-3455-432d-be16-d098f043caf8"
+        "4c7ceaba-3455-432d-be16-d098f043caf8",
+        "87427af5-8279-4a1c-94de-6a3ef1bbd27b",
+        "55220db0-1d73-44a9-bd75-0a18ed6e5955"
     ],
     "tutorial": ""
 }
