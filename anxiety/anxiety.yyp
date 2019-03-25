@@ -1018,7 +1018,7 @@
             "Key": "9784c655-38f2-43ca-9706-654a6cae47d8",
             "Value": {
                 "id": "2363f7b4-7dfb-48f7-b73b-2ddbad4ad043",
-                "resourcePath": "sprites\\PlayerSpriteRightNaked\\PlayerSpriteRightNaked.yy",
+                "resourcePath": "sprites\\PlayerSpriteLeftNaked\\PlayerSpriteLeftNaked.yy",
                 "resourceType": "GMSprite"
             }
         },

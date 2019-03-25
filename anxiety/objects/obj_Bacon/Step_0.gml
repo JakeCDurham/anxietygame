@@ -3,6 +3,4 @@
 
 // Inherit the parent event
 event_inherited();
-mySpeaker = -1;
-myText[0] = "I like my bacon extra crispy";
-myScripts[0] = [scr_destroy, self];
+
