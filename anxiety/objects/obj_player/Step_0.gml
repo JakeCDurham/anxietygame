@@ -1,7 +1,7 @@
 //Anxiety control.
 if global.anxiety > 5 {global.anxiety = 5;}
 if global.anxiety < 0 {global.anxiety = 0;}
-if global.anxiety == 5 && !instance_exists(obj_breath)
+if global.anxiety == 5 && !instance_exists(obj_breath) && !instance_exists(obj_flyingDialog) && !instance_exists(obj_textbox)
 {
 		instance_create_depth(x,y,1,obj_breath);
 }
