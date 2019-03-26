@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "1e513c81-2c22-465a-94ed-e2762be462e2",
+            "Value": {
+                "id": "9021da28-6a28-4b40-82a2-962701d82e72",
+                "resourcePath": "sprites\\ClockBlank\\ClockBlank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "208cd174-8fb5-4a81-a24b-9ab376de0945",
             "Value": {
                 "id": "2ebd3b98-2001-44ed-a3aa-2f121141b7cc",
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "357e3118-8a8b-46d8-b9e5-6b2528e6380e",
+            "Value": {
+                "id": "49e88164-546d-424c-875a-d3cfaa022485",
+                "resourcePath": "objects\\obj_WorkTable\\obj_WorkTable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3617c53b-fbad-41c1-b107-7ab92fa8aaca",
             "Value": {
                 "id": "dfe3ee3e-0ee4-4364-b943-fcb7d6af1efd",
@@ -468,6 +484,14 @@
                 "id": "3509d438-d464-4a5d-85db-63700b9a3e1e",
                 "resourcePath": "views\\42ce30f8-40db-4e12-92f3-d6cb0153acb1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "436a2879-0dd8-4cc2-8d13-c8d5326472be",
+            "Value": {
+                "id": "69d5e57f-cd5e-4026-a82d-dc38bf0cacd7",
+                "resourcePath": "sprites\\PlayerSpriteRightNaked\\PlayerSpriteRightNaked.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -572,6 +596,14 @@
                 "id": "d41abd39-b156-471b-bb0b-96b19fae31a8",
                 "resourcePath": "views\\50d4166c-d1ad-4381-b23b-29b5f82ec319.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "51345c68-3f70-4df0-9e11-ee2e8a3cab4f",
+            "Value": {
+                "id": "d75d325b-aa96-409d-b6f2-2f0cfda49dd4",
+                "resourcePath": "sprites\\WorkTable\\WorkTable.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1063,6 +1095,14 @@
             }
         },
         {
+            "Key": "9bf5cf81-2ae8-43ad-8522-8036965ba4f8",
+            "Value": {
+                "id": "763354c0-66ca-4216-85d2-a37fc0996821",
+                "resourcePath": "sprites\\WorkDoor\\WorkDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f895c65-0f61-4a20-bd22-522b245c1b1d",
             "Value": {
                 "id": "ac5b6749-df66-4c82-8ddc-a75da3218336",
@@ -1199,6 +1239,14 @@
             }
         },
         {
+            "Key": "b2d31b37-6c84-4e93-8ec4-2235b12c4a07",
+            "Value": {
+                "id": "311899d8-66c3-421b-a43e-14abf6f0a38f",
+                "resourcePath": "sprites\\WaterCooler\\WaterCooler.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b33d225e-f3ba-4aff-b112-9818a5d40e20",
             "Value": {
                 "id": "8866b402-bf72-4988-8eb4-e21efe81c17f",
@@ -1299,6 +1347,14 @@
             "Value": {
                 "id": "b64f90a7-f844-4f4a-82da-543b17e4ab3a",
                 "resourcePath": "objects\\par_wall\\par_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c84b0d2d-00ac-4590-869e-19635d000285",
+            "Value": {
+                "id": "006e3008-17e4-4a39-9e44-5107464c1f28",
+                "resourcePath": "objects\\obj_WaterCooler\\obj_WaterCooler.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1511,6 +1567,14 @@
             }
         },
         {
+            "Key": "edf081ec-52ab-4fe5-85f5-615cb9954cf4",
+            "Value": {
+                "id": "bd72a5fe-b1a6-4706-8d88-4b43830707d7",
+                "resourcePath": "objects\\obj_WorkDoor\\obj_WorkDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ee63b157-48f8-400f-ae36-a37f63936c6d",
             "Value": {
                 "id": "2dc5fb25-d8b4-4a51-a316-ed5dd44a92f7",
@@ -1636,6 +1700,14 @@
                 "id": "879d02e8-de0a-4210-bb37-c22c99002a69",
                 "resourcePath": "scripts\\move\\move.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fe85fc68-b931-4954-a184-ed54011bbc03",
+            "Value": {
+                "id": "e34711e6-874e-4444-b2f1-0e47fa7ae0b3",
+                "resourcePath": "objects\\obj_ClockBlank\\obj_ClockBlank.yy",
+                "resourceType": "GMObject"
             }
         },
         {
