@@ -6,3 +6,5 @@ global.breathTutorial = false;
 global.dressed = false;
 global.catFed = false;
 global.completeTasksCount = 0;
+//Two minutes time limit. 
+alarm[10] = room_speed * 120; 
