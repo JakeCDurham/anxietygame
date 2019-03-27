@@ -1103,6 +1103,14 @@
             }
         },
         {
+            "Key": "9cb23a54-7647-44e9-be80-bb8c7c066ac0",
+            "Value": {
+                "id": "cbfa03db-2fd1-49a3-9189-07253ea8603e",
+                "resourcePath": "scripts\\scr_eat_breakfast\\scr_eat_breakfast.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9f895c65-0f61-4a20-bd22-522b245c1b1d",
             "Value": {
                 "id": "ac5b6749-df66-4c82-8ddc-a75da3218336",
@@ -1535,6 +1543,14 @@
             }
         },
         {
+            "Key": "e5123046-82d1-4191-8dc4-18f0b4eba9c8",
+            "Value": {
+                "id": "b3489325-6396-47ea-8952-90454fc8cdcd",
+                "resourcePath": "scripts\\scr_brush_teeth\\scr_brush_teeth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e76ea1d2-80b0-4bf9-b845-7f08d55512cc",
             "Value": {
                 "id": "1a243f26-4091-4687-a8d1-53e661325b8b",
@@ -1734,7 +1750,9 @@
         "9959892e-e678-4045-9ced-c947a93368bd",
         "4c7ceaba-3455-432d-be16-d098f043caf8",
         "87427af5-8279-4a1c-94de-6a3ef1bbd27b",
-        "55220db0-1d73-44a9-bd75-0a18ed6e5955"
+        "55220db0-1d73-44a9-bd75-0a18ed6e5955",
+        "e5123046-82d1-4191-8dc4-18f0b4eba9c8",
+        "9cb23a54-7647-44e9-be80-bb8c7c066ac0"
     ],
     "tutorial": ""
 }

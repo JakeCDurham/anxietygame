@@ -4,5 +4,3 @@
 // Inherit the parent event
 event_inherited();
 spr = DresserShirt;
-global.dressed = false;
-

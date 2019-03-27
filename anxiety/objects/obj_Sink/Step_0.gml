@@ -3,4 +3,9 @@
 
 // Inherit the parent event
 event_inherited();
-myText[0] = "Gotta brush my teeth before I go to work.";
+if(global.tasks[2] = "Brush teeth"){
+	myText[0] = "Gotta brush my teeth before I go to work.";
+	myScripts[0] = [scr_brush_teeth];
+} else {
+	myText[0] = "I don't need to use the sink right now.";
+}

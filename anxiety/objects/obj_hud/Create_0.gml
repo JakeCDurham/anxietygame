@@ -3,3 +3,5 @@
 global.anxiety = 0;
 global.tasks = ["To do:", "Get dressed", "Brush teeth", "Eat breakfast"];
 global.breathTutorial = false;
+global.dressed = false;
+global.completeTasksCount = 0;

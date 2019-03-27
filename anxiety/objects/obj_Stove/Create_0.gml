@@ -3,4 +3,4 @@
 
 // Inherit the parent event
 event_inherited();
-myText[0] = "I will come up with some food related text sometime soon.";
+myText[0] = "I should check the fridge and see what I can make.";

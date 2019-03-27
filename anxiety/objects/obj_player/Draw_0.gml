@@ -20,6 +20,6 @@ else
 		case "Up": draw_sprite_ext(PlayerSpriteUpNaked,image_index,x,y,xscale,yscale,0,c_white,1);	break;
 		case "Down": draw_sprite_ext(PlayerSpriteDownNaked,image_index,x,y,xscale,yscale,0,c_white,1);	break;
 		case "Left": draw_sprite_ext(PlayerSpriteLeftNaked,image_index,x,y,xscale,yscale,0,c_white,1);	break;
-		case "Right": draw_sprite_ext(PlayerSpriteLeftNaked,image_index,x,y,xscale,yscale,0,c_white,1);	break;
+		case "Right": draw_sprite_ext(PlayerSpriteRightNaked,image_index,x,y,xscale,yscale,0,c_white,1);	break;
 	}
 }
