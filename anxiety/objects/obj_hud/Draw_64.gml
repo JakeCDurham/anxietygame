@@ -5,5 +5,21 @@ for(i = 0; i < array_length_1d(global.tasks); i++)
 {
 	draw_text(60, 80 + i*15 + global.anxiety*5, global.tasks[i]);
 }
+//Drawing timer.
+/////////////////////////////////////////////////////////
 draw_set_font(fnt_dialogue);
-draw_text(60,300,(floor(alarm[10]/room_speed)));
+if alarm[0] != -1
+{
+	var m = string(floor(alarm[0]/room_speed/60));
+	var s = string(floor(alarm[0]/room_speed % 60));
+	if string_length(s) == 1
+	{
+		s = "0" + s;	
+	}
+	draw_text(60,300,(m + ":" + s));
+}
+else
+{
+	draw_text(60,300,("LATE"));
+}
+/////////////////////////////////////////////////////////
