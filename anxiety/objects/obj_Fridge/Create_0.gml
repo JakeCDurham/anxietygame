@@ -3,6 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
+detection_radius = 40;
 myText[0] = "What should I make?";
 myText[1] = ["Pancakes","Coffee","Bacon"];
 myScripts[0] = [scr_null];

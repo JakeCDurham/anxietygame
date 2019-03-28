@@ -3,4 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
+detection_radius = 55;
 spr = DresserShirt;
