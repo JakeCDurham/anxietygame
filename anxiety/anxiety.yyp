@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "32a898e4-f077-44bd-b2db-44e1f6abab55",
+            "Value": {
+                "id": "7abf2058-d917-41cf-b17d-ca6814fbd318",
+                "resourcePath": "sprites\\TableRoundRed\\TableRoundRed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32c7d76d-f6bb-481f-ac3a-a2dd9bcb8d74",
             "Value": {
                 "id": "99e120d3-992c-4ad2-bcb7-616cd1c7abc3",
@@ -652,6 +660,14 @@
                 "id": "acddedae-325d-4981-af90-60194355c230",
                 "resourcePath": "sprites\\WorkWallTopL\\WorkWallTopL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4fd621d5-a27f-4887-8179-819d99e19b29",
+            "Value": {
+                "id": "4fb5d441-47ac-4803-a613-c77269bc530b",
+                "resourcePath": "objects\\obj_PictureVanGogh\\obj_PictureVanGogh.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -951,10 +967,26 @@
             }
         },
         {
+            "Key": "74007904-ef36-440f-966a-74762c5da4f6",
+            "Value": {
+                "id": "a98916d1-8601-4c71-b77e-f9a61491bf09",
+                "resourcePath": "sprites\\MailboxDisk\\MailboxDisk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75925048-0a9e-4d40-aeca-78d00b98cbba",
             "Value": {
                 "id": "153a876a-df2b-43dc-a269-0c56bc07d040",
                 "resourcePath": "sprites\\spr_portrait_player\\spr_portrait_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75ec672b-59ed-4320-bb34-4fb1f56f58aa",
+            "Value": {
+                "id": "01647aee-435f-4f23-9375-ee936cbedbdd",
+                "resourcePath": "sprites\\PictureVanGogh\\PictureVanGogh.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1047,6 +1079,14 @@
             }
         },
         {
+            "Key": "810e06de-2817-43f4-b917-75d27a12c7b2",
+            "Value": {
+                "id": "576bc870-782c-420d-9956-fe51a12504da",
+                "resourcePath": "objects\\obj_TableRoundRed\\obj_TableRoundRed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84d982cf-1832-4bdc-a3a1-3c1bf484c3f1",
             "Value": {
                 "id": "a082d9f6-b00f-4e85-ab60-10e3e14a4484",
@@ -1068,6 +1108,14 @@
                 "id": "b8dc5c61-f4e4-4535-aec9-76c4756ab7bb",
                 "resourcePath": "objects\\obj_TableOld\\obj_TableOld.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "89d89ded-8178-4103-8e42-221158c74291",
+            "Value": {
+                "id": "b94afd79-406c-4cef-8ac1-64f54a03badb",
+                "resourcePath": "sprites\\MailboxBubbles\\MailboxBubbles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1172,6 +1220,14 @@
                 "id": "b7372960-1904-437e-937c-ace254df5640",
                 "resourcePath": "scripts\\relieve_anxiety\\relieve_anxiety.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9a292c70-33e6-4d8d-aeeb-b4a5a21ce358",
+            "Value": {
+                "id": "d7b90c1a-c069-41bc-811d-cd266294aba8",
+                "resourcePath": "objects\\obj_MailboxBubbles\\obj_MailboxBubbles.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1332,6 +1388,14 @@
                 "id": "8316fa0f-a23b-4890-92bd-c47a01c7e05a",
                 "resourcePath": "sprites\\WallL\\WallL.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a881b385-b9a9-471f-9353-3599480abb02",
+            "Value": {
+                "id": "a941a22a-8279-4fb7-8cc6-574b783d34c3",
+                "resourcePath": "objects\\obj_MailboxDisk\\obj_MailboxDisk.yy",
+                "resourceType": "GMObject"
             }
         },
         {
