@@ -21,7 +21,10 @@
         "aed03a7a-6236-4824-a8fa-00dce68fbc5e",
         "b9df7262-902e-4ddf-8e1a-3a2fdd0fdb92",
         "dfd4f09b-d570-4aa8-9340-a5f25c9a8130",
-        "a265204f-64ba-4026-95dc-5bca28652c3e"
+        "a265204f-64ba-4026-95dc-5bca28652c3e",
+        "6ab71c85-aab3-4847-8c34-88a732b5ce2d",
+        "9ee32c90-bc87-4498-b573-218cb9ef97ba",
+        "04a78882-1999-4205-b1d1-4c5e1632b999"
     ],
     "filterType": "GMSprite",
     "folderName": "Work",

@@ -47,7 +47,12 @@
         "d74c55ca-4153-4e53-a1a9-a639eebeaa5f",
         "04fdf0ad-e578-4283-96eb-fbdf3248d4f5",
         "b908bdf7-6f2f-4cdb-873a-43b9300523fb",
-        "f29f1768-11de-4a43-93b7-f1d42406d141"
+        "f29f1768-11de-4a43-93b7-f1d42406d141",
+        "0dea4106-2b7e-4401-9337-ce13acda8a03",
+        "5fb2e133-168d-459b-93a4-883224f4f67f",
+        "dfcce79f-cf8e-4de5-a022-6b61eec0d499",
+        "295cc626-7a1a-4760-8760-e6ec13bda292",
+        "b049aaf4-cd61-4bff-a85d-8d1fbfebcf90"
     ],
     "filterType": "GMSprite",
     "folderName": "Home",
