@@ -8,3 +8,4 @@ global.catFed = false;
 global.completeTasksCount = 0;
 //Two minutes time limit. 
 alarm[0] = room_speed * 60 * 5; 
+alarm[1] = alarm[0] - (room_speed * 60 * 3);

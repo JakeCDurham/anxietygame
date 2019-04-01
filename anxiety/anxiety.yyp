@@ -1279,6 +1279,14 @@
             }
         },
         {
+            "Key": "9c30b6e3-adc3-47ae-8b01-1a48543de60b",
+            "Value": {
+                "id": "2429f92b-2f50-4512-ad03-1ef7231726f5",
+                "resourcePath": "tilesets\\tileset2\\tileset2.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "9cb23a54-7647-44e9-be80-bb8c7c066ac0",
             "Value": {
                 "id": "cbfa03db-2fd1-49a3-9189-07253ea8603e",
@@ -1564,6 +1572,14 @@
                 "id": "ea265c58-5d56-4453-984c-68145d78eeb1",
                 "resourcePath": "sounds\\snd_select\\snd_select.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "bc534065-9fa8-41bd-8c23-c93bfe74d686",
+            "Value": {
+                "id": "5f40497b-d513-4ea7-aaee-060e4ee735e8",
+                "resourcePath": "sprites\\ugly_carpet\\ugly_carpet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
