@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-var targetRm, targetX, targetY;
+targetRm = room0;
+targetX = 400;
+targetY = 200;
