@@ -23,7 +23,8 @@
     "tile_animation": {
         "AnimationCreationOrder": null,
         "FrameData": [
-            0
+            0,
+            1
         ],
         "SerialiseFrameCount": 1
     },
@@ -31,7 +32,7 @@
         
     ],
     "tile_animation_speed": 15,
-    "tile_count": 1,
+    "tile_count": 2,
     "tileheight": 64,
     "tilehsep": 0,
     "tilevsep": 0,
