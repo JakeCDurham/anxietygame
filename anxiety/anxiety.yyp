@@ -226,7 +226,7 @@
             "Key": "17bb4aa1-4bb7-48c1-87d9-aa71b56f3a4b",
             "Value": {
                 "id": "a0cc9a6a-f8af-418d-91cc-e81c6aead042",
-                "resourcePath": "sprites\\NPCSpriteRight\\NPCSpriteRight.yy",
+                "resourcePath": "sprites\\NPCSpriteLeft\\NPCSpriteLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1562,7 +1562,7 @@
             "Key": "b3ad4d6b-1ace-43be-9b0f-47ec27f0deb4",
             "Value": {
                 "id": "002d8c2d-c511-4112-8219-8dc9553877ff",
-                "resourcePath": "sprites\\NPCSpriteRight1\\NPCSpriteRight1.yy",
+                "resourcePath": "sprites\\NPCSpriteRight\\NPCSpriteRight.yy",
                 "resourceType": "GMSprite"
             }
         },
