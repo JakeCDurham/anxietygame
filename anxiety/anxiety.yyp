@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "549b5e23-7527-4d96-83de-e5d94a18905d",
+            "Value": {
+                "id": "09f57381-1bf2-4a4e-9a9e-26614c812405",
+                "resourcePath": "views\\549b5e23-7527-4d96-83de-e5d94a18905d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "55220db0-1d73-44a9-bd75-0a18ed6e5955",
             "Value": {
                 "id": "de11eaf4-4d97-404d-b4eb-f6549a073edb",
@@ -1276,6 +1284,14 @@
                 "id": "b7372960-1904-437e-937c-ace254df5640",
                 "resourcePath": "scripts\\relieve_anxiety\\relieve_anxiety.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "99f5bf72-adc8-4377-a462-480454666cf2",
+            "Value": {
+                "id": "8ae54e41-f6d5-489b-b230-0adab7910be9",
+                "resourcePath": "objects\\NPC\\NPC.yy",
+                "resourceType": "GMObject"
             }
         },
         {
