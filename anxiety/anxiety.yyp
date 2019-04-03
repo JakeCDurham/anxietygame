@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0b666bc4-0fcb-4a18-bfd2-178e1b669acb",
+            "Value": {
+                "id": "c62fceaa-74a5-401e-96f6-8d0fb1d4dd66",
+                "resourcePath": "sprites\\DresserShirtBoth\\DresserShirtBoth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c14e1b6-6204-4ee9-bed8-ba6390a45de7",
             "Value": {
                 "id": "ce35c05d-6cd8-4b99-8460-8200408002f6",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "42bffce9-7d6a-484d-9263-412d2b0dfb94",
+            "Value": {
+                "id": "b2ef0b6d-0629-4a31-af25-d538a754c8a4",
+                "resourcePath": "sprites\\RedFolderLeft\\RedFolderLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "42ce30f8-40db-4e12-92f3-d6cb0153acb1",
             "Value": {
                 "id": "3509d438-d464-4a5d-85db-63700b9a3e1e",
@@ -935,6 +951,14 @@
             }
         },
         {
+            "Key": "6a553371-1e73-4eda-b1ad-f77b833d769c",
+            "Value": {
+                "id": "e24eb0af-7b96-4ec1-9660-ea126cb9ca97",
+                "resourcePath": "sprites\\GreenFolderUp\\GreenFolderUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6ab71c85-aab3-4847-8c34-88a732b5ce2d",
             "Value": {
                 "id": "5a164dd3-fee7-4688-b5e1-27bdf83e9bb7",
@@ -1111,6 +1135,14 @@
             }
         },
         {
+            "Key": "7f593e04-7d81-4c53-a4a3-29a6ad20b461",
+            "Value": {
+                "id": "cda7e9fa-d85d-43c9-a631-c53ac78b07e3",
+                "resourcePath": "sprites\\RedFolderDown\\RedFolderDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f9dd48f-16d9-4476-8b95-d698950dde5a",
             "Value": {
                 "id": "b1282ef8-3324-45ea-8009-fc285acd5bac",
@@ -1139,6 +1171,14 @@
             "Value": {
                 "id": "a082d9f6-b00f-4e85-ab60-10e3e14a4484",
                 "resourcePath": "sprites\\WorkWallTop\\WorkWallTop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8716b5f9-3c0f-4478-b100-cda1ab95af35",
+            "Value": {
+                "id": "8847ba99-a482-4b6c-bc96-71435031120c",
+                "resourcePath": "sprites\\GreenFolderLeft\\GreenFolderLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1172,6 +1212,14 @@
                 "id": "7a6e9389-9f13-4275-a37b-80c8e161cf9b",
                 "resourcePath": "scripts\\scr_destroy\\scr_destroy.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "8a71d15e-e757-47f9-80bd-0cbafa4ea9e8",
+            "Value": {
+                "id": "518d4767-b38c-41ad-900b-2e9be727c7b0",
+                "resourcePath": "views\\8a71d15e-e757-47f9-80bd-0cbafa4ea9e8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1535,6 +1583,14 @@
             }
         },
         {
+            "Key": "b1b40acf-4357-4d23-881c-4540fa21477f",
+            "Value": {
+                "id": "9e7378c4-776e-4cfd-9bf8-a83071ab2ee9",
+                "resourcePath": "sprites\\GreenFolderDown\\GreenFolderDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1eee4c4-f4c8-4cdc-86ea-ee7317f5a690",
             "Value": {
                 "id": "6afa8c23-fa25-4b3d-8528-20d8581c91ac",
@@ -1586,7 +1642,7 @@
             "Key": "b908bdf7-6f2f-4cdb-873a-43b9300523fb",
             "Value": {
                 "id": "8b63a624-5cb2-4b0a-b70f-8d7961146307",
-                "resourcePath": "sprites\\DresserShirt\\DresserShirt.yy",
+                "resourcePath": "sprites\\DresserShirtGreen\\DresserShirtGreen.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2071,6 +2127,14 @@
             }
         },
         {
+            "Key": "f17e37fb-191f-4c86-ae54-f08a4ad105e6",
+            "Value": {
+                "id": "b21439db-47e5-4297-b38d-0a59832447ed",
+                "resourcePath": "sprites\\RedFolderUp\\RedFolderUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f19b1ca1-af1a-4523-8af1-38695cb3bbce",
             "Value": {
                 "id": "521db5e8-ceae-4a8b-8e5e-8295a1b72c00",
@@ -2170,7 +2234,7 @@
             "Key": "fa17999a-b3c1-4c87-b8b5-1b26fd0982b2",
             "Value": {
                 "id": "19c0aff4-ee6e-4825-883d-41ae613f8210",
-                "resourcePath": "sprites\\sprite105\\sprite105.yy",
+                "resourcePath": "sprites\\DresserShirtRed\\DresserShirtRed.yy",
                 "resourceType": "GMSprite"
             }
         },
