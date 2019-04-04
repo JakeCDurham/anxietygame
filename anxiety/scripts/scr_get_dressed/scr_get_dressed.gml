@@ -1,4 +1,9 @@
 global.dressed = true;
+if(argument0 = "r"){
+	global.shirtColor = "r";
+}else{
+	global.shirtColor = "g";
+}
 if(global.tasks[1] = "Get dressed"){
 	global.tasks[1] = "Done!";
 	global.completeTasksCount++;

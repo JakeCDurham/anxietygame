@@ -1,7 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-// Inherit the parent event
 event_inherited();
-detection_radius = 55;
-spr = DresserShirtBoth;
+draw_self();

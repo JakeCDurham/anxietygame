@@ -5,11 +5,17 @@
 event_inherited();
 if(!global.dressed) {
 	myText[0] = "Just take my day one step at a time and I will be okay.";
-	myText[1] = "Step one is to get dressed.";
+	myText[1] = "What should I wear today?";
 	myScripts[0] = [scr_null];
-	myScripts[1] = [scr_get_dressed];
+	myScripts[1] = [scr_get_dressed, "g"];
 } else {
-	myText[0] = "Should I wear something more professional?";
-	myText[1] = "No, no it's fine. I've worn this to work before.";
-	spr = Dresser;
+	if(global.shirtColor = "g"){
+		spr = DresserShirtRed;
+		myText[0] = "Should I wear something more professional?";
+		myText[1] = "No, no it's fine. I've worn this to work before.";
+	}else{
+		spr = DresserShirtGreen;
+		myText[0] = "Will I be overdressed if I wear this?";
+		myText[1] = "No, no it's fine. I've worn this to work before.";
+	}
 }

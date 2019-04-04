@@ -6,6 +6,7 @@ global.breathTutorial = false;
 global.dressed = false;
 global.catFed = false;
 global.completeTasksCount = 0;
+global.shirtColor = "g";
 //Two minutes time limit. 
 alarm[0] = room_speed * 60 * 5; 
 alarm[1] = alarm[0] - (room_speed * 60 * 3);
