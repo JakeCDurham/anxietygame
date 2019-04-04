@@ -9,5 +9,5 @@ global.catFed = false;
 global.completeTasksCount = 0;
 global.shirtColor = "g";
 //Ten minutes time limit. 
-alarm[0] = room_speed * 60 * 4; 
+alarm[0] = room_speed * 60 * 10; 
 alarm[1] = alarm[0] - (room_speed * 60 * 3);
