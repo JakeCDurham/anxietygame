@@ -6,6 +6,6 @@ event_inherited();
 detection_radius = 55;
 myText[0] = "This will help me wake up...";
 myText[1] = "...but it's not always worth it.";
-myScripts[0] = [[update_anxiety, 2], [scr_destroy, self]];
+myScripts = [[update_anxiety, 2], [scr_destroy, self]];
 image_xscale = .5;
 image_yscale = .5;
