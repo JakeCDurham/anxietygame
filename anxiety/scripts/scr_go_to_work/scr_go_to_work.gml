@@ -4,6 +4,8 @@ if(global.completeTasksCount = 4 && obj_player.has_keys){
 	obj_player.y = 235;
 	global.tasks = ["Clock in"];
 	global.completeTasksCount = 0;
+	obj_hud.alarm[0] = -2;
+	obj_hud.alarm[1] = -2;
 } else {
 	if(!obj_player.has_keys)
 		create_textevent(["Wait, where are my keys?"], -1);
