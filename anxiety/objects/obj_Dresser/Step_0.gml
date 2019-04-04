@@ -18,7 +18,8 @@ if(!global.dressed) {
 		myText[1] = ["Switch shirts", "Keep this shirt"];
 		myText[2] = "It's not my style, but it is dressier.";
 		myText[3] = "No, no it's fine. I've worn this to work before.";
-		myNextLine = [1, [2,3]];
+		myText[4] = "Okay, ready.";
+		myNextLine = [1, [2,3], 4];
 		myScripts = [scr_null, scr_null, [scr_get_dressed, "r"], scr_null];
 	}else{
 		spr = DresserShirtGreen;
@@ -26,7 +27,8 @@ if(!global.dressed) {
 		myText[1] = ["Switch shirts", "Keep this shirt"];
 		myText[2] = "This red is brighter than what I like to wear anyway.";
 		myText[3] = "No, no it's fine. I've worn this to work before.";
-		myNextLine = [1, [2,3]];
+		myText[4] = "Okay, ready.";
+		myNextLine = [1, [2,3], 4];
 		myScripts = [scr_null, scr_null, [scr_get_dressed, "g"], scr_null];
 	}
 }
