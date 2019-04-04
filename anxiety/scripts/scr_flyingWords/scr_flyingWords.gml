@@ -1,5 +1,8 @@
 //@argument0 = words;
-inst = instance_create_depth(0,0,0,obj_flyingDialog);
+if(argument1)
+	inst = instance_create_depth(0,0,0,obj_flyingDialog);
+else
+	inst = instance_create_depth(0,0,0,obj_practiceDialog);
 inst.words = argument0;
 var wordsX = [];
 var wordsY = [];

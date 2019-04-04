@@ -2215,6 +2215,14 @@
             }
         },
         {
+            "Key": "f735eac6-71e9-4392-8b36-482658798be1",
+            "Value": {
+                "id": "3597671f-2a6e-4667-8109-bd86a6b095cd",
+                "resourcePath": "objects\\obj_practiceDialog\\obj_practiceDialog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f87ce8e9-e3db-45e4-949a-6e97c24f88e8",
             "Value": {
                 "id": "a6d40344-d57e-40b0-b5a8-da361119d74d",
