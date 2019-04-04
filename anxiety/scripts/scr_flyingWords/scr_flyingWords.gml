@@ -1,4 +1,5 @@
 //@argument0 = words;
+global.talkingTutorial = true;
 if(argument1)
 	inst = instance_create_depth(0,0,0,obj_flyingDialog);
 else
