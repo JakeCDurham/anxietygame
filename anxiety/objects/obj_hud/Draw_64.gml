@@ -23,3 +23,19 @@ else if alarm[0] = -1
 	draw_text(60,300,("LATE"));
 }
 /////////////////////////////////////////////////////////
+//Drawing Folder you are holding.
+switch (global.folder)
+{
+	case "disk":
+	draw_sprite_ext(FolderDisk,0,40,375,2,2,0,c_white,1);
+	break;
+	
+	case "arrow":
+	draw_sprite_ext(FolderArrow,0,40,375,2,2,0,c_white,1);
+	break;
+	
+	case "bubbles":
+	draw_sprite_ext(FolderBubbles,0,40,375,2,2,0,c_white,1);
+	break;
+}
+//////////////////////////////////////////////////////////
