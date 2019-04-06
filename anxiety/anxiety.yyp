@@ -922,7 +922,7 @@
             "Key": "64e52c18-40ff-4337-b4ab-ee6842fda2e6",
             "Value": {
                 "id": "e880c726-6df7-4f2d-bf33-6b2bd61caa1c",
-                "resourcePath": "objects\\obj_MailboxArrow\\obj_MailboxArrow.yy",
+                "resourcePath": "objects\\obj_Mailbox\\obj_Mailbox.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1324,6 +1324,14 @@
                 "id": "1fde430b-4494-4886-8cb4-348d6d827260",
                 "resourcePath": "sprites\\PlayerSpriteRedUp\\PlayerSpriteRedUp.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "96318aae-7c09-46fb-9c66-1e97e77319d7",
+            "Value": {
+                "id": "22e6e40b-969d-43b5-9506-d382aebef12c",
+                "resourcePath": "scripts\\scr_drop_off_folder\\scr_drop_off_folder.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2331,7 +2339,8 @@
         "9cb23a54-7647-44e9-be80-bb8c7c066ac0",
         "2d86278c-404a-4d45-bc85-393022399fa2",
         "edd1af24-dce6-4844-b1f4-80c16342c41c",
-        "6c5b0fa4-f0e6-44b9-abcd-52965798a85d"
+        "6c5b0fa4-f0e6-44b9-abcd-52965798a85d",
+        "96318aae-7c09-46fb-9c66-1e97e77319d7"
     ],
     "tutorial": ""
 }
