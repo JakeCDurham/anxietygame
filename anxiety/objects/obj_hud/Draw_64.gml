@@ -8,7 +8,7 @@ for(i = 0; i < array_length_1d(global.tasks); i++)
 //Drawing timer.
 /////////////////////////////////////////////////////////
 draw_set_font(fnt_dialogue);
-if alarm[0] != -1
+if alarm[0] > -1
 {
 	var m = string(floor(alarm[0]/room_speed/60));
 	var s = string(floor(alarm[0]/room_speed % 60));
@@ -18,7 +18,7 @@ if alarm[0] != -1
 	}
 	draw_text(60,300,(m + ":" + s));
 }
-else
+else if alarm[0] = -1
 {
 	draw_text(60,300,("LATE"));
 }

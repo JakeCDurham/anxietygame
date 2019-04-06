@@ -1,1 +1,0 @@
-global.dressed = true;
