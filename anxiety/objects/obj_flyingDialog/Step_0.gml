@@ -15,6 +15,7 @@ for(i = 0; i < array_length_1d(words); i++)
 }
 if mouse_check_button_pressed(mb_left)
 {
+	draw_set_font(fnt_flyers);
 	if point_in_rectangle(window_views_mouse_get_x(), window_views_mouse_get_y(),wX[target], wY[target], wX[target] + string_width(words[target]), wY[target] + string_height(words[target]))
 	{
 		words[target] = "";

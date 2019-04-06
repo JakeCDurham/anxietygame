@@ -1,0 +1,1 @@
+detection_radius = 30;
