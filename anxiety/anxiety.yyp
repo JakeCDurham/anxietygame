@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "29a40dc2-9506-49b7-bd4e-70afdffca9d7",
+            "Value": {
+                "id": "af7293ca-9abe-4253-9f03-571d02ed2079",
+                "resourcePath": "objects\\obj_WorkStove\\obj_WorkStove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "29b8a47b-8d4f-44fd-959a-175ee4f3f492",
             "Value": {
                 "id": "62b6bf9d-311f-43d4-ae3d-1d1b8fda6062",
@@ -1572,6 +1580,14 @@
                 "id": "45526422-115c-4d44-8341-1caa23585626",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a95b3090-dea3-4859-be10-861a24897764",
+            "Value": {
+                "id": "772ce581-aa28-4115-b2c0-13d7bd15f93d",
+                "resourcePath": "objects\\obj_WorkFridge\\obj_WorkFridge.yy",
+                "resourceType": "GMObject"
             }
         },
         {
