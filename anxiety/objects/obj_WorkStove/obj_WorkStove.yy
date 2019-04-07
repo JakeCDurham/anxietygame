@@ -1,19 +1,10 @@
 {
-    "id": "32c7d76d-f6bb-481f-ac3a-a2dd9bcb8d74",
+    "id": "29a40dc2-9506-49b7-bd4e-70afdffca9d7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_WorkWallTop",
+    "name": "obj_WorkStove",
     "eventList": [
-        {
-            "id": "9482c6c5-cbae-4cf4-bf10-8a91cabc048b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "32c7d76d-f6bb-481f-ac3a-a2dd9bcb8d74"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "84d982cf-1832-4bdc-a3a1-3c1bf484c3f1",
+    "spriteId": "e9f81eea-adb5-4b3c-93c5-01662c9b47a3",
     "visible": true
 }

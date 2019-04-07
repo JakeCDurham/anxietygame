@@ -16,6 +16,6 @@ else if global.folder == "none"
 }
 else
 {
-	myText[0] = "this is not the right folder for this."
+	myText[0] = "This is not the right folder for this."
 	myScripts[0] = [scr_null];
 }

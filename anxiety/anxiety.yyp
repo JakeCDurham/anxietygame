@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "1671487f-975c-4568-a792-931c0781874f",
+            "Value": {
+                "id": "a1eb640e-6ec5-4186-b38b-8ecc95595afe",
+                "resourcePath": "scripts\\scr_makefolder\\scr_makefolder.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "17bb4aa1-4bb7-48c1-87d9-aa71b56f3a4b",
             "Value": {
                 "id": "a0cc9a6a-f8af-418d-91cc-e81c6aead042",
@@ -396,6 +404,14 @@
                 "id": "7ae19cf6-8b40-4c73-a761-b01045d559e3",
                 "resourcePath": "sprites\\Towel\\Towel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29a40dc2-9506-49b7-bd4e-70afdffca9d7",
+            "Value": {
+                "id": "af7293ca-9abe-4253-9f03-571d02ed2079",
+                "resourcePath": "objects\\obj_WorkStove\\obj_WorkStove.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1575,6 +1591,14 @@
             }
         },
         {
+            "Key": "a95b3090-dea3-4859-be10-861a24897764",
+            "Value": {
+                "id": "772ce581-aa28-4115-b2c0-13d7bd15f93d",
+                "resourcePath": "objects\\obj_WorkFridge\\obj_WorkFridge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a95c34d3-a547-4064-b5b6-ee1cd6a2ab92",
             "Value": {
                 "id": "49f7a624-5d0a-432e-ac5c-ac7d1a0d296e",
@@ -2340,7 +2364,8 @@
         "2d86278c-404a-4d45-bc85-393022399fa2",
         "edd1af24-dce6-4844-b1f4-80c16342c41c",
         "6c5b0fa4-f0e6-44b9-abcd-52965798a85d",
-        "96318aae-7c09-46fb-9c66-1e97e77319d7"
+        "96318aae-7c09-46fb-9c66-1e97e77319d7",
+        "1671487f-975c-4568-a792-931c0781874f"
     ],
     "tutorial": ""
 }

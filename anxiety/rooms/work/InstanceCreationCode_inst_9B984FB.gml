@@ -1,1 +1,1 @@
-depth = obj_player.depth - 1;
+depth = obj_player.depth - 2;
