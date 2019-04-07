@@ -6,4 +6,4 @@ event_inherited();
 type = "arrow";
 image_xscale = .8;
 image_yscale = .8;
-detection_radius = 50;
+detection_radius = 60;
