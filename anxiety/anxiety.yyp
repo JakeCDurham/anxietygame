@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "3ddec3f5-bc8b-40d9-ae82-e7bc87646425",
+            "Value": {
+                "id": "b10fe0bf-905d-4889-8605-d88e8d91657e",
+                "resourcePath": "objects\\obj_WorkBookshelf\\obj_WorkBookshelf.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "40014458-5b37-43ec-adc6-689975a01d16",
             "Value": {
                 "id": "0c85366f-758a-414d-b33d-3383f9812ff3",

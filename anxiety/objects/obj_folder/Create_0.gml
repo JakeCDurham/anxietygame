@@ -5,4 +5,4 @@ type = "arrow";
 myText[0] = "I have to deliver this to the red bin.";
 image_xscale = .4;
 image_yscale = .4;
-detection_radius = 55;
+detection_radius = 65;

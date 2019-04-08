@@ -1,19 +1,10 @@
 {
-    "id": "32c7d76d-f6bb-481f-ac3a-a2dd9bcb8d74",
+    "id": "3ddec3f5-bc8b-40d9-ae82-e7bc87646425",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_WorkWallTop",
+    "name": "obj_WorkBookshelf",
     "eventList": [
-        {
-            "id": "9482c6c5-cbae-4cf4-bf10-8a91cabc048b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "32c7d76d-f6bb-481f-ac3a-a2dd9bcb8d74"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "84d982cf-1832-4bdc-a3a1-3c1bf484c3f1",
+    "spriteId": "51a6f85b-744c-40e3-89c4-c8c22ce419d8",
     "visible": true
 }

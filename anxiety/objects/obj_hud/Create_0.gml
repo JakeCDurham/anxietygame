@@ -9,6 +9,7 @@ global.catFed = false;
 global.completeTasksCount = 0;
 global.shirtColor = "g";
 global.folder = "none";
+global.deskHasFolder = [false, false, false, false, false, false];
 //Ten minutes time limit. 
 alarm[0] = room_speed * 60 * 10; 
 alarm[1] = alarm[0] - (room_speed * 60 * 3);
