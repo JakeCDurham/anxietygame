@@ -4,7 +4,7 @@ event_inherited();
 
 if(!obj_player.has_keys)
 	myText[0] = "Wait, where are my keys?";
-else if(global.completeTasksCount != 4)
+else if(global.completeTasksCount < 4)
 	myText[0] = "I'm not ready for work yet.";
 else {
 	mySpeaker = -1;
