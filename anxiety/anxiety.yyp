@@ -1583,6 +1583,14 @@
             }
         },
         {
+            "Key": "a7f0207b-6587-4d2b-9220-10bb7351ea74",
+            "Value": {
+                "id": "5d3d7ac3-df0f-45b1-a5aa-b6f9b21b31cb",
+                "resourcePath": "objects\\obj_WorkSink\\obj_WorkSink.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a881b385-b9a9-471f-9353-3599480abb02",
             "Value": {
                 "id": "a941a22a-8279-4fb7-8cc6-574b783d34c3",
