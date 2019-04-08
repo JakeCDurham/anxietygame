@@ -2,6 +2,12 @@ if instance_number(obj_folder) < 6
 {
 	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
 	var d = irandom(5);
+	for(i = 0; i < 5; i++)
+	{
+		if(!global.deskHasFolder[d])
+			break;
+		d = irandom(5);
+	}
 	if(!global.deskHasFolder[d]){
 		global.deskHasFolder[d] = true;
 		var D = desks[d];
