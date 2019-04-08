@@ -9,3 +9,4 @@
  target = 0;
  stress_rate = 10;
  starttime = current_time;
+ depth = -1000;

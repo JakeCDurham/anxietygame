@@ -68,7 +68,7 @@ if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
 	}
 }
 //Move target randomly. 
-if irandom(2000) == 0
+if irandom(200) == 0
 	{
 		current_target = irandom(array_length_1d(locs) - 1);
 	}
