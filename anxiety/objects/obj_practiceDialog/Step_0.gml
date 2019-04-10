@@ -4,11 +4,11 @@ for(i = 0; i < array_length_1d(words); i++)
 {
 	wX[i] += vX[i];
 	wY[i] += vY[i];
-	if wX[i] < 0 || wX[i] > display_get_gui_width()
+	if wX[i] < 0 || wX[i] > display_get_gui_width() - 100
 	{
 		vX[i] *= -1;
 	}
-	if wY[i] < 0 || wY[i] > display_get_gui_height()
+	if wY[i] < 0 || wY[i] > display_get_gui_height() - 100
 	{
 		vY[i] *= -1;
 	}
