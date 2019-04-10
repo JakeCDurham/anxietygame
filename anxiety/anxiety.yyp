@@ -346,7 +346,7 @@
             "Key": "22d8ae53-0b34-42bd-b957-7607c42e89e9",
             "Value": {
                 "id": "d56d7b0b-fe60-442c-849d-ba45b65c1c3b",
-                "resourcePath": "sprites\\temp_background\\temp_background.yy",
+                "resourcePath": "sprites\\background_day\\background_day.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2188,6 +2188,14 @@
                 "id": "3b673686-e7c9-4051-894a-6ff48a746545",
                 "resourcePath": "objects\\obj_Wall2\\obj_Wall2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "efb7c02a-3b9b-4678-955b-fcda2d9f570c",
+            "Value": {
+                "id": "e6f73090-7b95-42a7-9a7d-b9e2a333043e",
+                "resourcePath": "sprites\\background_night\\background_night.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
