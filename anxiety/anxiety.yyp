@@ -2135,6 +2135,14 @@
             }
         },
         {
+            "Key": "daf9f28d-e3b0-4e29-b1b0-60d9ba5f1262",
+            "Value": {
+                "id": "bce27ae1-5075-458d-af61-31b48ad292a6",
+                "resourcePath": "sprites\\twister_progress_bar\\twister_progress_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dbf3539e-cd7c-4cd7-af7d-e26665fb5a88",
             "Value": {
                 "id": "70ca1be3-7537-4b33-b0af-911be86f45df",
