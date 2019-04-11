@@ -13,3 +13,7 @@ global.deskHasFolder = [false, false, false, false, false, false];
 //Ten minutes time limit. 
 alarm[0] = room_speed * 60 * 10; 
 alarm[1] = alarm[0] - (room_speed * 60 * 3);
+
+//Music
+audio_play_sound(snd_Home_BG3,100,true);
+
