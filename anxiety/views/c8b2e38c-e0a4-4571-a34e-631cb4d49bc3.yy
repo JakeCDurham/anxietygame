@@ -58,7 +58,9 @@
         "92d0416d-a4b5-44fe-82f1-ef0485a7ad19",
         "34cdf6c5-cd42-4d0f-bc9f-2ace9dcc6ab5",
         "fa17999a-b3c1-4c87-b8b5-1b26fd0982b2",
-        "0b666bc4-0fcb-4a18-bfd2-178e1b669acb"
+        "0b666bc4-0fcb-4a18-bfd2-178e1b669acb",
+        "f100fc88-f1b0-4f40-962f-da035cd65749",
+        "1d294599-1cfb-415c-9ca9-7d47f93c55c7"
     ],
     "filterType": "GMSprite",
     "folderName": "Home",

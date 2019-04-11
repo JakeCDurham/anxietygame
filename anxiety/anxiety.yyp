@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "1d294599-1cfb-415c-9ca9-7d47f93c55c7",
+            "Value": {
+                "id": "7d821389-21b2-4536-b1ec-eafbfaa5a3f4",
+                "resourcePath": "sprites\\Pizza\\Pizza.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1deb6544-10fb-449e-838b-967e7064a500",
             "Value": {
                 "id": "edef17dd-02ae-4121-bf42-c207fd75fcf9",
@@ -611,6 +619,14 @@
             "Value": {
                 "id": "014543f7-d337-4da7-9dc7-7f47ceaf72f9",
                 "resourcePath": "sprites\\TopWallL\\TopWallL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3af70e12-57c7-47ca-9712-f116bb354195",
+            "Value": {
+                "id": "d8772980-654f-4ed9-a262-f7aef590c94a",
+                "resourcePath": "sprites\\Phone_Bell\\Phone_Bell.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2331,6 +2347,14 @@
             "Value": {
                 "id": "b2504bf1-c2f0-46ca-88fd-410f21124511",
                 "resourcePath": "sprites\\spr_Phone\\spr_Phone.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f100fc88-f1b0-4f40-962f-da035cd65749",
+            "Value": {
+                "id": "21d95182-5398-4b3f-bd0d-677cf1aff320",
+                "resourcePath": "sprites\\Sushi\\Sushi.yy",
                 "resourceType": "GMSprite"
             }
         },
