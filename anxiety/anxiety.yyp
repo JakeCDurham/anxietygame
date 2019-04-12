@@ -855,6 +855,14 @@
             }
         },
         {
+            "Key": "52a1e4c8-156d-4e70-a736-b6e954a86a72",
+            "Value": {
+                "id": "4ce0ebdc-cca5-4603-9892-ece9e201e467",
+                "resourcePath": "scripts\\scr_breath\\scr_breath.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "530c234f-f8d8-4fa4-8c60-dd4517a9693c",
             "Value": {
                 "id": "d32742bc-477b-4eb3-96c7-ffa154b78d22",
@@ -964,6 +972,14 @@
                 "id": "df580c04-bd30-4637-8c0a-958df577662c",
                 "resourcePath": "views\\5e6aa7b1-5006-4958-8dac-362bf526d0e6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e9d37df-c54b-4a35-91a6-a5773bd48296",
+            "Value": {
+                "id": "0f5de464-5032-4fda-8c0c-984164e95433",
+                "resourcePath": "objects\\obj_MirrorImage\\obj_MirrorImage.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1524,6 +1540,14 @@
                 "id": "4355dfdf-3e12-4d90-b1ee-e1cd72b88a4b",
                 "resourcePath": "fonts\\fnt_debug\\fnt_debug.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "9b8776dc-cc58-47b4-bdfb-cff5612b61e7",
+            "Value": {
+                "id": "7eb9558c-30cd-45bb-b479-16ccc463092d",
+                "resourcePath": "objects\\obj_practiceBreath\\obj_practiceBreath.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2541,7 +2565,8 @@
         "edd1af24-dce6-4844-b1f4-80c16342c41c",
         "6c5b0fa4-f0e6-44b9-abcd-52965798a85d",
         "96318aae-7c09-46fb-9c66-1e97e77319d7",
-        "1671487f-975c-4568-a792-931c0781874f"
+        "1671487f-975c-4568-a792-931c0781874f",
+        "52a1e4c8-156d-4e70-a736-b6e954a86a72"
     ],
     "tutorial": ""
 }
