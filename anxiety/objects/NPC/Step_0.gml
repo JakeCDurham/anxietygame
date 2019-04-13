@@ -3,50 +3,27 @@
 
 // Inherit the parent event
 event_inherited();
-var seconds_passed = delta_time/1000000;
-var move_speed_this_frame = spd*seconds_passed;
-var targetx = locs[current_target];
-targetx = targetx[0];
-var targety = locs[current_target];
-targety = targety[1]
-
-//If they are at their goal
-if targetx >= x - 20 && targetx <= x + 20 && targety >= y - 20 && targety <= y + 20
-{
-	if irandom(1000) == 0
-	{
-		current_target = irandom(array_length_1d(locs) - 1);
-	}
-	image_index = 0;
-	image_speed = 0;
-	spd = 0;
-}
-else
-{
-	image_speed = i_s;
-	spd = 40;
-	mp_potential_step(targetx, targety, move_speed_this_frame, false);
-}
-
-//Set direction facing
-var dir = point_direction(x,y,targetx,targety);
-
+var dir = point_direction(lastx, lasty, x, y);
 if dir >= 45 && dir < 135
 {
-	face = "up";	
+	face = "up";
 }
 else if dir >= 135 && dir < 225
 {
-	face = "left";	
+	face = "left";
 }
 else if dir >= 225 && dir < 315
 {
-	face = "down";	
+	face = "down";
 }
 else
 {
-	face = "right";	
+	face = "right";
 }
+lastx = x;
+lasty = y;
+
+//Close to the player? Initiate conversation. 
 if instance_exists(obj_textbox) || instance_exists(obj_breath) || instance_exists(obj_flyingDialog) || instance_exists(obj_stress_ball) {exit;}
 var dr = detection_radius;
 if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
@@ -67,8 +44,3 @@ if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
 		myTextbox = noone;
 	}
 }
-//Move target randomly. 
-if irandom(200) == 0
-	{
-		current_target = irandom(array_length_1d(locs) - 1);
-	}

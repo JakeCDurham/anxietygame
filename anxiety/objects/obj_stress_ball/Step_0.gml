@@ -24,7 +24,7 @@ for(i = 0; i < len; i++)
 				all_done = false;
 			}
 		}
-		if percent[i] % 3 == 0 && frame[i] < 27 && vis[i] == true
+		if percent[i] % 6 == 0 && frame[i] < 15 && vis[i] == true
 		{
 			frame[i]++;	
 		}
@@ -36,7 +36,7 @@ for(i = 0; i < len; i++)
 		{
 			percent[i] -= rate;
 		}
-		if percent[i] % 3 == 0 && frame[i] > 0
+		if percent[i] % 6 == 0 && frame[i] > 0
 		{
 			frame[i]--;	
 		}
