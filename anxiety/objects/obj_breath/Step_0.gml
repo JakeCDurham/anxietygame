@@ -45,6 +45,7 @@ if keyboard_check_pressed(vk_space)
 if abs(spd) < 2
 {
 	global.anxiety -= 2;
+	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }
 

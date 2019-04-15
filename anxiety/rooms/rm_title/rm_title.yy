@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_76C5EF20","id": "e8439776-1753-4fa0-ab79-e72358c9f32e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76C5EF20","objId": "95e6c323-29b5-4b9f-9dcb-59dd8271fa87","properties": null,"rotation": 0,"scaleX": 13.5,"scaleY": 7.147058,"mvc": "1.0","x": 512,"y": 384}
+{"name": "inst_76C5EF20","id": "e8439776-1753-4fa0-ab79-e72358c9f32e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76C5EF20","objId": "95e6c323-29b5-4b9f-9dcb-59dd8271fa87","properties": null,"rotation": 0,"scaleX": 13.5,"scaleY": 7.147058,"mvc": "1.0","x": 512,"y": 384}
             ],
             "layers": [
 
@@ -43,14 +43,14 @@
             "id": "d304da44-3389-4798-a245-65956f3d424b",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294967295 },
+            "colour": { "Value": 4278190080 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
-            "hspeed": 1,
-            "htiled": true,
+            "hspeed": 0,
+            "htiled": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -62,15 +62,15 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "22d8ae53-0b34-42bd-b957-7607c42e89e9",
-            "stretch": false,
+            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": 1,
-            "y": -200
+            "x": 0,
+            "y": 0
         }
     ],
     "modelName": "GMRoom",

@@ -6,6 +6,7 @@ if(argument0 = "r"){
 }
 if(global.tasks[1] = "Get dressed"){
 	global.tasks[1] = "Done!";
+	audio_play_sound(snd_completion, 20, false);
 	global.completeTasksCount++;
 	if(global.completeTasksCount = 4 && global.anxiety > 0)
 		global.anxiety--;

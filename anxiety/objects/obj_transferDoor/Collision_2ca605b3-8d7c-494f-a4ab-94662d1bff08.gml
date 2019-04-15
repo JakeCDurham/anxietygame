@@ -3,4 +3,4 @@
 room_goto(targetRm);
 obj_player.x = targetX;
 obj_player.y = targetY;
-door = audio_play_sound(snd_door, 1, 0)
+door = audio_play_sound(snd_door, 1, 0);

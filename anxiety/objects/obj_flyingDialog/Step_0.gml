@@ -24,6 +24,7 @@ if mouse_check_button_pressed(mb_left)
 }
 if target == array_length_1d(words)
 {
+	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }
 t = (date_get_second(starttime) - current_second);

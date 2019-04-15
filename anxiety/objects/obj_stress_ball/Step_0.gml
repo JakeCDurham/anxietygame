@@ -59,5 +59,6 @@ for(i = 0; i < len; i++)
 //if everything is at 100% destroy self.
 if all_done
 {
+	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }
