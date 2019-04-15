@@ -39,3 +39,18 @@ switch (global.folder)
 	break;
 }
 //////////////////////////////////////////////////////////
+draw_set_font(fnt_dialogue);
+if alarm[2] > -1
+{
+	var m = string(floor(alarm[2]/room_speed/60));
+	var s = string(floor(alarm[2]/room_speed % 60));
+	if string_length(s) == 1
+	{
+		s = "0" + s;	
+	}
+	draw_text(60,300,(m + ":" + s));
+}
+else if alarm[2] = -1
+{
+	draw_text(60,300,("LATE"));
+}
