@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Desk",
     "eventList": [
-        
+        {
+            "id": "d47ed7b0-8331-4de0-9192-51d09d9bb894",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a39835a8-63d2-45f9-a71d-e722782a0634"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

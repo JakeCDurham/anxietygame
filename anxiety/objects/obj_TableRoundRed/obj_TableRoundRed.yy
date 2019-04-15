@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_TableRoundRed",
     "eventList": [
-        
+        {
+            "id": "e2352f8c-a457-4bdb-a748-40ccfe7218fc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "810e06de-2817-43f4-b917-75d27a12c7b2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
