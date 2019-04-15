@@ -1,0 +1,1 @@
+image_alpha = min(image_alpha+.005,1);

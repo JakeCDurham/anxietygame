@@ -4,12 +4,11 @@
 // Inherit the parent event
 event_inherited();
 depth = obj_player.depth;
-locs= [[404, 480],[830,330],[695, 596]];
-current_target = 1;
 character = 1;
 face = "down";
-i_s = 1;
-spd = 40;
+lastx = x;
+lasty = y;
+image_speed = 1;
 randNames = ["Hemerson", "Durham", "Murdock", "Rappleye", "Anderson", "Butters", "Johnson", "Lee", "Hamelton"]
 t0 = "Oh hey, I have been meaning to ask you. Could you get me that report on the  account?"
 myText[0] = string_insert(randNames[irandom(array_length_1d(randNames)-1)], t0, 77);
