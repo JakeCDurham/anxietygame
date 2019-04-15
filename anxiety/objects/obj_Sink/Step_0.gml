@@ -8,4 +8,5 @@ if(global.tasks[2] = "Brush teeth"){
 	myScripts[0] = [scr_brush_teeth];
 } else {
 	myText[0] = "I don't need to use the sink right now.";
+	myScripts[0] = [scr_null];
 }
