@@ -16,3 +16,4 @@ switch(type)
 	myText[0] = "I have to deliver this to the brown bin.";
 	break;
 }
+scr_adepth(self, -1);

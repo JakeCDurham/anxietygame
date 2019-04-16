@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Stool",
     "eventList": [
-        
+        {
+            "id": "09db5b94-4476-495e-95e3-ed1545fe8f4c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "d786b56f-fee0-4d70-b50b-91679b618891"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
