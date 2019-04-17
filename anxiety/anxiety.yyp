@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "16b589bf-56be-4556-8b19-f937cfb25296",
+            "Value": {
+                "id": "4090e9c6-b786-4557-b649-f99f93549adf",
+                "resourcePath": "objects\\obj_Pizza\\obj_Pizza.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17bb4aa1-4bb7-48c1-87d9-aa71b56f3a4b",
             "Value": {
                 "id": "a0cc9a6a-f8af-418d-91cc-e81c6aead042",
@@ -1868,6 +1876,14 @@
                 "id": "fbdd0388-f71d-448e-89d9-e1eddaa50be2",
                 "resourcePath": "sprites\\TableHorizontalSpill\\TableHorizontalSpill.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b07d54f0-4de5-4011-a62f-a52ab9528d70",
+            "Value": {
+                "id": "30bf97ef-898e-49c7-9491-8bba06c75512",
+                "resourcePath": "objects\\obj_sushi\\obj_sushi.yy",
+                "resourceType": "GMObject"
             }
         },
         {
