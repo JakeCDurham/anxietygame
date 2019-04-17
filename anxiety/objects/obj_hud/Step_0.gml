@@ -42,3 +42,8 @@ if global.anxiety > 0
 		}
 	}
 }
+
+if room == work && alarm[0] % (room_speed * 30) == 0
+{
+		scr_makefolder();
+}
