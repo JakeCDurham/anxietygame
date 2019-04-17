@@ -7,7 +7,7 @@ for(i = 0; i < array_length_1d(global.tasks); i++)
 }
 //Drawing timer.
 /////////////////////////////////////////////////////////
-draw_set_color(c_black);
+draw_set_color(c_white);
 draw_set_font(fnt_dialogue);
 
 if alarm[0] > -1
@@ -18,11 +18,11 @@ if alarm[0] > -1
 	{
 		s = "0" + s;	
 	}
-	draw_text(60,300,(m + ":" + s));
+	draw_text(60,165,(m + ":" + s));
 }
 else if alarm[0] = -1 && (room == room0 || room == room1)
 {
-	draw_text(60,300,("LATE"));
+	draw_text(60,165,("LATE"));
 }
 /////////////////////////////////////////////////////////
 //Drawing Folder you are holding.
@@ -39,17 +39,4 @@ switch (global.folder)
 	case "bubbles":
 	draw_sprite_ext(FolderBubbles,0,40,375,2,2,0,c_white,1);
 	break;
-}
-//////////////////////////////////////////////////////////
-draw_set_color(c_black)
-draw_set_font(fnt_dialogue);
-if alarm[2] > -1
-{
-	var m = string(floor(alarm[2]/room_speed/60));
-	var s = string(floor(alarm[2]/room_speed % 60));
-	if string_length(s) == 1
-	{
-		s = "0" + s;	
-	}
-	draw_text(60,300,(m + ":" + s));
 }

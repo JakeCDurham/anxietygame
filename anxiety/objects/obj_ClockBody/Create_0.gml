@@ -6,3 +6,4 @@ event_inherited();
 mySpeaker = -1;
 myText[0] = "This grandfather clock was unsurprisingly given to me by my grandfather.";
 myText[1] = "It never seems to have quite the right time though...";
+myScripts = [[scr_null],[scr_play_sound, snd_clock],[scr_null]];
