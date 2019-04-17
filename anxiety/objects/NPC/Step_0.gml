@@ -9,7 +9,7 @@ if global.anxiety <= 2
 	myText[0] = string_insert(randNames[irandom(array_length_1d(randNames)-1)], t0, 77);
 	myEffects[0] = [1,0];
 }
-else if global.anxiety > 2 && global.anxiety <= 3
+else if global.anxiety > 1 && global.anxiety <= 3
 {
 	myText[0] = "Hey buddy, Those reports won't make themselves. Haha. I still need them.";	
 	myEffects[0] = [1,0];

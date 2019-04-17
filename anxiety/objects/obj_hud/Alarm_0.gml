@@ -7,5 +7,8 @@ if room == room0 || room == room1
 }
 if room == work 
 {
-	create_textevent(["Thank Goodness. Time to go home."],-1);
+	create_textevent(["Finally. Time to go home."],-1);
+	relieve_anxiety();
+	global.tasks = ["Go home"];
+	global.completeTasksCount = 0;
 }
