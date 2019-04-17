@@ -9,7 +9,7 @@ if instance_number(obj_folder) < 6
 		d = irandom(5);
 	}
 	if(!global.deskHasFolder[d]){
-		//global.deskHasFolder[d] = true;
+		global.deskHasFolder[d] = true;
 		var D = desks[d];
 		var inst = instance_create_depth(D[0], D[1], obj_player.depth - 2, obj_folder);
 		var t = ["arrow", "bubbles", "disk"];
