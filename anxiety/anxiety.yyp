@@ -1298,7 +1298,7 @@
             "Key": "77cbe7fb-48ad-41fb-88ba-841fee116ea1",
             "Value": {
                 "id": "698c418a-8366-4c21-8cb5-bfb993931b4a",
-                "resourcePath": "sprites\\title_words\\title_words.yy",
+                "resourcePath": "sprites\\title_fading_text\\title_fading_text.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1554,7 +1554,7 @@
             "Key": "95e6c323-29b5-4b9f-9dcb-59dd8271fa87",
             "Value": {
                 "id": "074725b5-10b1-4457-8999-b86c8ffbc746",
-                "resourcePath": "objects\\obj_title\\obj_title.yy",
+                "resourcePath": "objects\\obj_title_fading_text\\obj_title_fading_text.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2063,6 +2063,14 @@
             }
         },
         {
+            "Key": "c05f119e-b887-4d41-a08d-a9c5445b555c",
+            "Value": {
+                "id": "7bf375f3-d7d5-4078-9e09-0931ed359ff7",
+                "resourcePath": "sprites\\title_text\\title_text.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c06bf95f-dae4-44e6-9cff-46ee360df4fc",
             "Value": {
                 "id": "b7282d7e-c3b6-44c9-9f79-e9aa98eaf6c3",
@@ -2099,6 +2107,14 @@
             "Value": {
                 "id": "006e3008-17e4-4a39-9e44-5107464c1f28",
                 "resourcePath": "objects\\obj_WaterCooler\\obj_WaterCooler.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8511c65-d753-4912-89fc-54dd52967fe2",
+            "Value": {
+                "id": "cada019b-2c70-4ab6-960e-84a65bdc146b",
+                "resourcePath": "objects\\obj_title_text\\obj_title_text.yy",
                 "resourceType": "GMObject"
             }
         },
