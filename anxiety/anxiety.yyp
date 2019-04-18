@@ -1127,6 +1127,14 @@
             }
         },
         {
+            "Key": "653c4cac-85d3-46c9-8266-62154e9d92de",
+            "Value": {
+                "id": "7e154af0-c75a-4076-9e3e-41374dc27260",
+                "resourcePath": "sounds\\snd_heartbeat\\snd_heartbeat.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "66a7a5da-08fc-43d7-bb23-ee6930295e56",
             "Value": {
                 "id": "459ae861-47f6-4bf5-a385-26a8d0f1f25a",
@@ -1508,6 +1516,14 @@
                 "id": "0536a7f3-954e-46da-a24f-142145bf1742",
                 "resourcePath": "sprites\\PlayerSpriteRight\\PlayerSpriteRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9171deb5-383d-43c0-8d2d-023ea0e99cb8",
+            "Value": {
+                "id": "4d815fae-235a-45b2-899d-2038ed118b13",
+                "resourcePath": "sounds\\snd_stressin\\snd_stressin.yy",
+                "resourceType": "GMSound"
             }
         },
         {

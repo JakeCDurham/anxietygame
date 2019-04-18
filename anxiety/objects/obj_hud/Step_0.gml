@@ -1,49 +1,32 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-//Anxiety sounds
-
-if global.anxiety > 0
-{
-	if irandom(600/global.anxiety) == 0
-	{
-	var s = irandom(10);
-		switch(s)
-		{
-			case 0:
-			break;
-			case 1:
-			audio_play_sound(snd_anx1,10,false);
-			break;
-			case 2:
-			audio_play_sound(snd_anx2,10,false);
-			break;
-			case 3:
-			audio_play_sound(snd_anx3,10,false);
-			break;
-			case 4:
-			audio_play_sound(snd_anx4,10,false);
-			break;
-			case 5:
-			audio_play_sound(snd_anx5,10,false);
-			break;
-			case 6:
-			audio_play_sound(snd_anx6,10,false);
-			break;
-			case 7:
-			audio_play_sound(snd_anx7,10,false);
-			break;
-			case 8:
-			audio_play_sound(snd_anx8,10,false);
-			break;
-			case 9:
-			audio_play_sound(snd_anx9,10,false);
-			break;
-		}
-	}
-}
-
 if room == work && alarm[0] % (room_speed * 30) == 0
 {
 		scr_makefolder();
+}
+if a != global.anxiety
+{
+	a = global.anxiety;
+	if a == 0
+	{
+		if audio_is_playing(snd_heartbeat)
+		{
+			audio_stop_sound(snd_heartbeat);	
+		}
+	}
+	if a > 0 && a < 4
+	{
+		if !audio_is_playing(snd_heartbeat)
+		{
+			audio_play_sound_at(snd_heartbeat, obj_player.x, obj_player.y, 0, 100, 3000, 1, true, 1);	
+		}
+		if audio_is_playing(snd_stressin)
+		{
+			audio_stop_sound(snd_stressin);	
+		}
+	}
+	if a > 3 && !audio_is_playing(snd_stressin)
+	{
+		audio_play_sound_at(snd_stressin, obj_player.x, obj_player.y, 0, 100, 3000, 1, true, 1);
+	}
 }

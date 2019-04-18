@@ -17,4 +17,5 @@ alarm[2] = -2;
 
 //Music
 audio_play_sound(snd_Home_BG2,100,true);
+a = global.anxiety;
 
