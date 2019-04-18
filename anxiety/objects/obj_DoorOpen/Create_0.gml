@@ -1,6 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 event_inherited();
-myText = ["I can't leave yet."];
-myScripts = [scr_null];
-detection_radius = 60;
+myText[0] = "I don't feel like going out right now.";
