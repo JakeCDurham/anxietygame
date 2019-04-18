@@ -45,6 +45,7 @@ if keyboard_check_pressed(vk_space)
 if abs(spd) < 2
 {
 	relieve_anxiety();
+	audio_play_sound(snd_completion, 20, false);
 	instance_activate_object(obj_Mirror);
 	instance_destroy(self);
 }

@@ -9,7 +9,7 @@ if global.anxiety <= 2
 	myText[0] = string_insert(randNames[irandom(array_length_1d(randNames)-1)], t0, 77);
 	myEffects[0] = [1,0];
 }
-else if global.anxiety > 2 && global.anxiety <= 3
+else if global.anxiety > 1 && global.anxiety <= 3
 {
 	myText[0] = "Hey buddy, Those reports won't make themselves. Haha. I still need them.";	
 	myEffects[0] = [1,0];
@@ -40,8 +40,8 @@ else
 lastx = x;
 lasty = y;
 
-//Close to the player? Initiate conversation. 
-if instance_exists(obj_textbox) || instance_exists(obj_breath) || instance_exists(obj_flyingDialog) || instance_exists(obj_stress_ball) {exit;}
+//Close to the player? Initiate conversation.
+if instance_exists(obj_textbox) || instance_exists(obj_breath) || instance_exists(obj_flyingDialog) || instance_exists(obj_stress_ball) || global.tasks[0] = "Go home" {exit;}
 var dr = detection_radius;
 if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
 	if(myTextbox != noone){ 

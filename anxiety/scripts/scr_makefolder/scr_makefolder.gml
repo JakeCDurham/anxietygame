@@ -1,12 +1,12 @@
-if instance_number(obj_folder) < 6
+if instance_number(obj_folder) < 6 && global.tasks[0] != "Go home"
 {
 	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
 	var d = irandom(5);
-	for(i = 0; i < 10000; i++)
+	for(i = 0; i < 6; i++)
 	{
 		if(!global.deskHasFolder[d])
 			break;
-		d = irandom(5);
+		d = i;
 	}
 	if(!global.deskHasFolder[d]){
 		global.deskHasFolder[d] = true;

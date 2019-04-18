@@ -23,6 +23,12 @@ if mouse_check_button_pressed(mb_left)
 }
 if target == array_length_1d(words)
 {
+	if(global.tasks[5] = "Practice talking"){
+		global.tasks[5] = "Done!"
+		global.completeTasksCount++;
+		if(global.completeTasksCount = 5 && global.anxiety > 0)
+			global.anxiety--;
+	}
 	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }

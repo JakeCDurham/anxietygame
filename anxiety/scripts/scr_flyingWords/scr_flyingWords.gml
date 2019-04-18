@@ -1,9 +1,10 @@
 //@argument0 = words;
-global.talkingTutorial = true;
-if(argument1)
+if(argument1){
 	inst = instance_create_depth(0,0,0,obj_flyingDialog);
-else
+}else{
 	inst = instance_create_depth(0,0,0,obj_practiceDialog);
+}
+global.talkingTutorial = true;
 inst.words = argument0;
 var wordsX = [];
 var wordsY = [];
