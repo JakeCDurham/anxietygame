@@ -1351,6 +1351,14 @@
             }
         },
         {
+            "Key": "7985ec9a-3fab-43f3-aacd-89a49144ed3f",
+            "Value": {
+                "id": "30ea0fbb-7254-4430-b4ca-a40616240cd2",
+                "resourcePath": "sounds\\snd_alarm\\snd_alarm.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "799c2921-afc2-4746-bc08-c219bbb17f0c",
             "Value": {
                 "id": "f932f30f-be65-4089-af49-eb821456f7df",

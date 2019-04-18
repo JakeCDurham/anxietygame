@@ -3,11 +3,11 @@
 
 // Inherit the parent event
 event_inherited();
-detection_radius = 50;
+detection_radius = 40;
 mySpeaker = -1;
-myText[0] = "This is just a few days old.";
+myText[0] = "Despite what the taco industry wants you to believe...";
 myScripts[0] = [scr_destroy, self];
-myText[1] = "Shrimp stays good that long, right?";
+myText[1] = "Tacos are for every day of the week.";
 myScripts[1] = [scr_eat_breakfast];
 image_xscale = .5;
 image_yscale = .5;

@@ -9,5 +9,5 @@ var s = string(current_minute);
 	{
 		s = "0" + s;	
 	}
-myText[2] = "It says it's " + string(current_hour) +":"+ s + ".";
+myText[2] = "It says it's " + string(current_hour % 12) +":"+ s + ".";
 
