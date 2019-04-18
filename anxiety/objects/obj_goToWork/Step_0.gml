@@ -2,10 +2,10 @@
 // You can write your code in this editor
 event_inherited();
 
-if(!obj_player.has_keys)
-	myText[0] = "Wait, where are my keys?";
-else if(global.completeTasksCount < 4)
+if(global.completeTasksCount < 5)
 	myText[0] = "I'm not ready for work yet.";
+else if(!obj_player.has_keys)
+	myText[0] = "Wait, where are my keys?";
 else {
 	mySpeaker = -1;
 	myTypes =[0,1];

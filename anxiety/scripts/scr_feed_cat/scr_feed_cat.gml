@@ -3,6 +3,6 @@ if(global.tasks[4] = "Feed cat"){
 	audio_play_sound(snd_completion, 20, false);
 	global.completeTasksCount++;
 	global.catFed = true;
-	if(global.completeTasksCount = 4 && global.anxiety > 0)
+	if(global.completeTasksCount = 5 && global.anxiety > 0)
 		global.anxiety--;
 }

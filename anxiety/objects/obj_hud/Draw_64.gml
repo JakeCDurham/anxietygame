@@ -3,7 +3,7 @@ draw_set_font(fnt_tasks);
 draw_set_color(c_white);
 for(i = 0; i < array_length_1d(global.tasks); i++)
 {
-	draw_text(60, 80 + i*15 + global.anxiety*5, global.tasks[i]);
+	draw_text(50, 80 + i*15 + global.anxiety*5, global.tasks[i]);
 }
 //Drawing timer.
 /////////////////////////////////////////////////////////
@@ -18,11 +18,11 @@ if alarm[0] > -1
 	{
 		s = "0" + s;	
 	}
-	draw_text(60,165,(m + ":" + s));
+	draw_text(63,170,(m + ":" + s));
 }
 else if alarm[0] = -1 && (room == room0 || room == room1)
 {
-	draw_text(60,165,("LATE"));
+	draw_text(63,170,("LATE"));
 }
 /////////////////////////////////////////////////////////
 //Drawing Folder you are holding.
