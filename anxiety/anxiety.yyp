@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "1ab7932a-0695-480f-96f1-9b725184ce46",
+            "Value": {
+                "id": "5378093c-661b-40f5-93dc-0b7101db353a",
+                "resourcePath": "objects\\obj_NightDresser\\obj_NightDresser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b78c63c-0789-4133-b7dc-01a11f80bbe9",
             "Value": {
                 "id": "2026f6fe-0e5e-4972-9058-db921f487391",
@@ -748,6 +756,14 @@
                 "id": "0c85366f-758a-414d-b33d-3383f9812ff3",
                 "resourcePath": "objects\\obj_TV\\obj_TV.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4005725d-7ef0-4dcf-9e9c-9dc554130938",
+            "Value": {
+                "id": "f7c78781-bc3c-4dd7-b10f-8adb8a607383",
+                "resourcePath": "views\\4005725d-7ef0-4dcf-9e9c-9dc554130938.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

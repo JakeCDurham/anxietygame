@@ -5,5 +5,5 @@ audio_play_sound(snd_door, 20, false);
 global.tasks = ["Sort folders"];
 global.completeTasksCount = 0;
 //Change back later
-obj_hud.alarm[0] = room_speed * 60 * 1;
+obj_hud.alarm[0] = room_speed * 60 * .5;
 obj_hud.alarm[1] = -2;
