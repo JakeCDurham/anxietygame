@@ -11,4 +11,13 @@ if room == work
 	relieve_anxiety();
 	global.tasks = ["Go home"];
 	global.completeTasksCount = 0;
+	if(global.folder != "none")
+		global.folder = "none";
+	for(i = 0; i < 7; i++){
+		if(instance_exists(obj_folder))
+			instance_destroy(obj_folder);
+		else
+			break;
+	}
+	
 }

@@ -42,7 +42,7 @@ lasty = y;
 
 //Close to the player? Initiate conversation. (Unless it's time to go home)
 if instance_exists(obj_textbox) || instance_exists(obj_breath) || instance_exists(obj_flyingDialog) 
-								|| instance_exists(obj_stress_ball || global.tasks[0] = "Go home") {exit;}
+								|| instance_exists(obj_stress_ball || global.tasks[0] == "Go home") {exit;}
 var dr = detection_radius;
 if(point_in_rectangle(playerobject.x, playerobject.y, x-dr, y-dr, x+dr, y+dr)){
 	if(myTextbox != noone){ 
