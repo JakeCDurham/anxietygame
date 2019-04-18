@@ -7,6 +7,7 @@ switch(state)
 		break;
 	case 1:
 		alarm[0] = room_speed * .75;
+		audio_play_sound(snd_meow, 10, false);
 		break;
 	case 2:
 		break;

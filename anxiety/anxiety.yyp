@@ -1007,6 +1007,14 @@
             }
         },
         {
+            "Key": "53d84b2f-e0cb-4e9a-8185-b2af077fd21e",
+            "Value": {
+                "id": "4378dae5-372f-4991-842c-83fe279a2e1c",
+                "resourcePath": "sounds\\snd_meow\\snd_meow.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "544e46ab-3cd0-4567-a481-89dd3ecded44",
             "Value": {
                 "id": "cbfd16fd-a5a7-44a4-9b97-8bc72740ffc1",
