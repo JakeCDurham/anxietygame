@@ -3,4 +3,4 @@
 event_inherited();
 myText = ["I can't leave yet."];
 myScripts = [scr_null];
-detection_radius = 35;
+detection_radius = 30;

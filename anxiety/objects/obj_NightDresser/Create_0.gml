@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-depth = obj_player.depth + 1;
+event_inherited();
+detection_radius = 55;
 if(global.shirtColor = "g")
 	spr = DresserShirtRed;
 else
