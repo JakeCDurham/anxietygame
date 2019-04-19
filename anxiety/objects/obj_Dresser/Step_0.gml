@@ -10,7 +10,7 @@ if(!global.dressed) {
 	myText[1] = "What should I wear today?";
 	myText[2] = ["Green shirt", "Red shirt"];
 	myScripts = [scr_null, 
-				[scr_stressball, ["Q","L","V"], [400, 500, 450], [500, 450, 550], 1], 
+				[scr_stressball, ["Q","F","V"], [400, 500, 450], [500, 450, 550], 1], 
 				[[scr_get_dressed, "g"], 
 				[scr_get_dressed, "r"]]];
 } else {
