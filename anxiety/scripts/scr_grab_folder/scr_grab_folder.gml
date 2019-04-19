@@ -5,29 +5,12 @@ var temp = argument1;
 
 if global.folder != "none"
 {
+	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
 	(argument0).type = global.folder;
 	global.folder = temp;
-	switch((argument0).y)
-	{
-		case 341:
-			global.deskHasFolder[0] = false;
-			break;
-		case 340:
-			global.deskHasFolder[1] = false;
-			break;
-		case 435:
-			global.deskHasFolder[2] = false;
-			break;
-		case 436:
-			global.deskHasFolder[3] = false;
-			break;
-		case 437:
-			global.deskHasFolder[4] = false;
-			break;
-		case 339:
-			global.deskHasFolder[5] = false;
-			break;
-		
+	for(var i = 0; i < 6; i++){
+		if(desks[i] = [argument0.x, argument0.y])
+			global.deskHasFolder[i] = false;
 	}
 	//Text update
 	switch (temp)
