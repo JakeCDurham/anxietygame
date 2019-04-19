@@ -5,15 +5,8 @@ var temp = argument1;
 
 if global.folder != "none"
 {
-	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
 	(argument0).type = global.folder;
-	global.folder = temp;
-	for(i = 0; i < 6; i++){
-		if(desks[i] = [argument0.x, argument0.y]){
-			global.deskHasFolder[i] = false;
-			break;
-		}
-	}
+	global.folder = temp
 	//Text update
 	switch (temp)
 	{
@@ -30,6 +23,15 @@ if global.folder != "none"
 }
 else
 {
-	global.folder = temp;	
+	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
+	global.folder = temp;
+	for(i = 0; i < 6; i++){
+		var D = desks[i]
+		if D[0] == argument0.x && D[1] == argument0.y
+		{
+			global.deskHasFolder[i] = false;
+			break;
+		}
+	}
 	instance_destroy(argument0);
 }

@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if room == work && alarm[0] % (room_speed * 30) == 0
+if room == work && alarm[0] % (room_speed * 15) == 0
 {
 		scr_makefolder();
 }
