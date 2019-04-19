@@ -23,6 +23,9 @@ if alarm[0] > -1
 else if alarm[0] = -1 && (room == room0 || room == room1)
 {
 	draw_text(63,170,("LATE"));
+}else if alarm[0] = -1 && (room == work)
+{
+	draw_text(63,170,("HOME"));
 }
 /////////////////////////////////////////////////////////
 //Drawing Folder you are holding.

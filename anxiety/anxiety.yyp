@@ -1055,6 +1055,14 @@
             }
         },
         {
+            "Key": "57c1ae19-ba56-4b4f-ac49-8c1e8879879a",
+            "Value": {
+                "id": "50a8d76b-6425-4530-ab4a-93d75657459c",
+                "resourcePath": "scripts\\scr_make_food\\scr_make_food.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "57dec62d-9ad0-4d05-85bf-948c81f5184b",
             "Value": {
                 "id": "ff08ac0a-8fd5-42f7-a79d-dee0542831a1",
@@ -2928,7 +2936,8 @@
         "0ec60dad-ef89-4f07-8819-cdc57ae8bfa4",
         "cf861171-2500-4287-b0c0-eab817d32a18",
         "8e30b793-1665-4ca8-a0dc-479afeca611f",
-        "f31823a1-417d-4c52-b1c3-9e7540137989"
+        "f31823a1-417d-4c52-b1c3-9e7540137989",
+        "57c1ae19-ba56-4b4f-ac49-8c1e8879879a"
     ],
     "tutorial": ""
 }
