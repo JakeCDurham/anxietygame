@@ -1,7 +1,7 @@
 depth = obj_player.depth + 1;
 myText[0] = "I have some left overs in here.";
 myText[1] = "Let's see... What should I have for dinner?";
-myText[2] = ["Pizza","Sushi","Tacos."];
+myText[2] = ["Pizza","Sushi","Tacos"];
 myScripts[0] = [scr_null];
 myScripts[1] = [scr_stressball, ["V","T","J"], [400, 500, 600], [320, 370, 300], 1];
 myScripts[2] = [[scr_create_instance, 856,543,obj_player.depth -3, obj_Pizza],
