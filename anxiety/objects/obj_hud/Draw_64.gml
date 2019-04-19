@@ -3,7 +3,7 @@ draw_set_font(fnt_tasks);
 draw_set_color(c_white);
 for(i = 0; i < array_length_1d(global.tasks); i++)
 {
-	draw_text(50, 80 + i*15 + global.anxiety*5, global.tasks[i]);
+	draw_text(50, 80 + i*15, global.tasks[i]);
 }
 //Drawing timer.
 /////////////////////////////////////////////////////////
