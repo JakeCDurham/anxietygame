@@ -9,7 +9,10 @@ if(!global.dressed) {
 	myText[0] = "Just take my day one step at a time and I will be okay.";
 	myText[1] = "What should I wear today?";
 	myText[2] = ["Green shirt", "Red shirt"];
-	myScripts = [scr_null, scr_null, [[scr_get_dressed, "g"], [scr_get_dressed, "r"]]];
+	myScripts = [scr_null, 
+				[scr_stressball, ["Q","L","V"], [400, 500, 450], [500, 450, 550], 1], 
+				[[scr_get_dressed, "g"], 
+				[scr_get_dressed, "r"]]];
 } else {
 	myTypes = [0,1,0];
 	if(global.shirtColor = "g"){
