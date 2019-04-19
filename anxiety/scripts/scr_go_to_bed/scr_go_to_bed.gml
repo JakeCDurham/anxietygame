@@ -1,2 +1,2 @@
 create_textevent("Good night Purple.");
-//room_goto(rm_title);
+room_goto(rm_credits);
