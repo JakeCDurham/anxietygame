@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 event_inherited();
-detection_radius = 55;
+detection_radius = 65;
 if(global.shirtColor = "g")
 	spr = DresserShirtRed;
 else

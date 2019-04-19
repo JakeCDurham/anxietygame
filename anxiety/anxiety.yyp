@@ -1647,6 +1647,14 @@
             }
         },
         {
+            "Key": "91f252a9-bf3d-4393-b2f6-d37b36ff499e",
+            "Value": {
+                "id": "8369906d-49ab-425c-b524-2bd2ac575cbf",
+                "resourcePath": "objects\\obj_NightTub\\obj_NightTub.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92057392-e963-4fa7-80a1-18618c2b7c80",
             "Value": {
                 "id": "f291c84a-8a4d-4a8e-9b23-75d96572c84a",
@@ -2583,14 +2591,6 @@
             }
         },
         {
-            "Key": "e5123046-82d1-4191-8dc4-18f0b4eba9c8",
-            "Value": {
-                "id": "b3489325-6396-47ea-8952-90454fc8cdcd",
-                "resourcePath": "scripts\\scr_brush_teeth\\scr_brush_teeth.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e561aa75-0290-426a-94d4-3c26bded2328",
             "Value": {
                 "id": "4c49ec09-5034-4cde-b638-511f6eed13ae",
@@ -2927,7 +2927,6 @@
         "4c7ceaba-3455-432d-be16-d098f043caf8",
         "87427af5-8279-4a1c-94de-6a3ef1bbd27b",
         "55220db0-1d73-44a9-bd75-0a18ed6e5955",
-        "e5123046-82d1-4191-8dc4-18f0b4eba9c8",
         "9cb23a54-7647-44e9-be80-bb8c7c066ac0",
         "2d86278c-404a-4d45-bc85-393022399fa2",
         "edd1af24-dce6-4844-b1f4-80c16342c41c",

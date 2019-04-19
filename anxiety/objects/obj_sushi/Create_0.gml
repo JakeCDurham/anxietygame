@@ -8,6 +8,6 @@ mySpeaker = -1;
 myText[0] = "This is just a few days old.";
 myScripts[0] = [scr_destroy, self];
 myText[1] = "Shrimp stays good that long, right?";
-myScripts[1] = [scr_eat_breakfast];
+myScripts[1] = [scr_complete_task, 0, "Eat dinner", 4];
 image_xscale = .5;
 image_yscale = .5;
