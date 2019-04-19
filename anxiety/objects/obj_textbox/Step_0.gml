@@ -1,5 +1,5 @@
 //We check the type of dialogue to see if it is 1) "normal" or 2) a player choice dialogue.
-if instance_exists(obj_flyingDialog) {exit;}
+if instance_exists(obj_flyingDialog) || instance_exists(obj_stress_ball) {exit;}
 #region TYPE 0: NORMAL
 if(type[page] == 0){
 	if(keyboard_check_pressed(interact_key)){
