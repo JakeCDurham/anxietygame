@@ -8,9 +8,11 @@ if global.folder != "none"
 	var desks = [[294,341],[433,340],[684,435],[293,436],[435,437],[684,339]];
 	(argument0).type = global.folder;
 	global.folder = temp;
-	for(var i = 0; i < 6; i++){
-		if(desks[i] = [argument0.x, argument0.y])
+	for(i = 0; i < 6; i++){
+		if(desks[i] = [argument0.x, argument0.y]){
 			global.deskHasFolder[i] = false;
+			break;
+		}
 	}
 	//Text update
 	switch (temp)
