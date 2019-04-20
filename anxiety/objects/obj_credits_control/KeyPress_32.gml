@@ -2,5 +2,5 @@
 // You can write your code in this editor
 if done
 {
-	room_goto(rm_title);	
+	game_restart();
 }
