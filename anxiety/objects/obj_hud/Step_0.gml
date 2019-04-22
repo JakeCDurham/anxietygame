@@ -30,3 +30,16 @@ if a != global.anxiety
 		audio_play_sound_at(snd_stressin, obj_player.x, obj_player.y, 0, 100, 3000, 1, true, 1);
 	}
 }
+if alarm[0] = -1 && trigger_home && !instance_exists(obj_textbox)
+{
+	trigger_home = false;
+	create_textevent(["Finally. Time to go home."],-1);
+	relieve_anxiety();
+	global.tasks = ["Go home"];
+	global.completeTasksCount = 0;
+	if(global.folder != "none")
+		global.folder = "none";
+	while(instance_exists(obj_folder)){
+		instance_destroy(obj_folder);
+	}	
+}

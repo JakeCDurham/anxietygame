@@ -5,16 +5,7 @@ if room == room0 || room == room1
 	create_textevent(["I'm gonna be late for work!"],-1);
 	update_anxiety(5);
 }
-if room == work 
+if room == work
 {
-	create_textevent(["Finally. Time to go home."],-1);
-	relieve_anxiety();
-	global.tasks = ["Go home"];
-	global.completeTasksCount = 0;
-	if(global.folder != "none")
-		global.folder = "none";
-	while(instance_exists(obj_folder)){
-		instance_destroy(obj_folder);
-	}
-	
+	trigger_home = true;
 }

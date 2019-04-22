@@ -14,8 +14,9 @@ global.deskHasFolder = [false, false, false, false, false, false];
 alarm[0] = room_speed * 60 * 10; 
 alarm[1] = alarm[0] - (room_speed * 60 * 3);
 alarm[2] = -2;
-
+trigger_home = false;
 //Music
 audio_play_sound(snd_Home_BG2,100,true);
 a = global.anxiety;
+
 
