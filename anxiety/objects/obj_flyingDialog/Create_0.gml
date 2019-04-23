@@ -7,6 +7,6 @@
  vY = [1];
  stress = 0;
  target = 0;
- stress_rate = 10;
+ stress_rate = 2;
  starttime = current_time;
  depth = -1000;

@@ -735,6 +735,14 @@
             }
         },
         {
+            "Key": "3a39599c-a58d-4819-bb0a-8af5485551b5",
+            "Value": {
+                "id": "8df7f2ea-38e3-4572-a945-779b2272d1a8",
+                "resourcePath": "paths\\npc3_path\\npc3_path.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "3af70e12-57c7-47ca-9712-f116bb354195",
             "Value": {
                 "id": "d8772980-654f-4ed9-a262-f7aef590c94a",
