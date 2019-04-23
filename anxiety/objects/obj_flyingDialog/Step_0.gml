@@ -27,19 +27,9 @@ if target == array_length_1d(words)
 	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }
-t = (date_get_second(starttime) - current_second);
-if t < 0
+stress++;
+if stress % (stress_rate * room_speed) == ((stress_rate * room_speed) -1)
 {
- t *= -1;	
-}
-t = t % stress_rate;
-if t == 0
-{
-	stress++;
-}
-if stress == 40
-{
-	stress = 0;
 	if(global.anxiety < 5)
 		global.anxiety++;	
 }
