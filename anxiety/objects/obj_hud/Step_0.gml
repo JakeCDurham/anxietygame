@@ -3,7 +3,7 @@
 if room == work && alarm[0] % (room_speed * 15) == 0
 {
 		scr_makefolder();
-		if(alarm[0] != -1 && instance_number(obj_folder) > 4)
+		if(alarm[0] != -1 && alarm[0]/room_speed % 60 == 0 && instance_number(obj_folder) > 4 && !instance_exists(obj_practiceBreath) && !instance_exists(obj_breath))
 			update_anxiety(5);
 }
 if a != global.anxiety
