@@ -623,6 +623,14 @@
             }
         },
         {
+            "Key": "328b99fa-cfb6-4a49-ac73-c67012e1599c",
+            "Value": {
+                "id": "1d949aeb-0356-4b75-bacf-7d343b8f6430",
+                "resourcePath": "sprites\\NPC3SpriteUp\\NPC3SpriteUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "32a898e4-f077-44bd-b2db-44e1f6abab55",
             "Value": {
                 "id": "7abf2058-d917-41cf-b17d-ca6814fbd318",
@@ -644,6 +652,14 @@
                 "id": "2b925e72-115e-46a2-bf1a-186a152e81de",
                 "resourcePath": "rooms\\rm_title\\rm_title.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "33180814-ee63-4d0d-b458-d4d0480d7e83",
+            "Value": {
+                "id": "1bd3af4d-860e-4c3b-9536-47db59d13379",
+                "resourcePath": "sprites\\NPC3SpriteRight\\NPC3SpriteRight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1323,6 +1339,14 @@
             "Value": {
                 "id": "228c0378-ab72-4768-99d8-217b9f443008",
                 "resourcePath": "sprites\\PlayerSpriteRedLeft\\PlayerSpriteRedLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "705b62ed-2965-47ba-be01-1eb2e42f3f9f",
+            "Value": {
+                "id": "097a0990-5b82-46a7-afdf-8b26ab468c73",
+                "resourcePath": "sprites\\NPC3SpriteLeft\\NPC3SpriteLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2539,6 +2563,14 @@
             "Value": {
                 "id": "bce27ae1-5075-458d-af61-31b48ad292a6",
                 "resourcePath": "sprites\\twister_progress_bar\\twister_progress_bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db2ce3dc-423c-48b1-a843-a4464f3506fe",
+            "Value": {
+                "id": "9efcdd57-e53c-4f89-b8f5-15ae8fcf78c3",
+                "resourcePath": "sprites\\NPC3SpriteDown\\NPC3SpriteDown.yy",
                 "resourceType": "GMSprite"
             }
         },
