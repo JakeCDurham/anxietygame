@@ -24,6 +24,7 @@ if mouse_check_button_pressed(mb_left)
 }
 if target == array_length_1d(words)
 {
+	scr_makefolder(); // Remove if this doesn't work
 	audio_play_sound(snd_completion, 20, false);
 	instance_destroy(self);
 }
