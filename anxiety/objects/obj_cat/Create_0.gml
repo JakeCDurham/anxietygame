@@ -7,4 +7,4 @@ mySpeaker = -1;
 myText[0] = "Meow.";
 myText[1] = "Purple always seems to be eager to tell me about his day when I come home from work.";
 myScripts = [[scr_play_sound, snd_meow], [relieve_anxiety]];
-detection_radius = 78;
+detection_radius = 40;
