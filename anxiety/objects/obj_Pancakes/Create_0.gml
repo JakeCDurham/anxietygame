@@ -3,7 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
-detection_radius = 40;
+detection_radius = 43;
 mySpeaker = -1;
 myText[0] = "Hot cakes!";
 myScripts[0] = [scr_destroy, self];
