@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if room == work && alarm[0] % (room_speed * 15) == 0 && !instance_exists(obj_flyingDialog) && !instance_exists(obj_textbox)
+if room == work && alarm[0] % (room_speed * 30) == 0 && !instance_exists(obj_flyingDialog) && !instance_exists(obj_textbox)
 {
 	scr_makefolder();
 	if(alarm[0] != -1 && alarm[0]/room_speed % 60 == 0 && instance_number(obj_folder) > 4 && !instance_exists(obj_practiceBreath) && !instance_exists(obj_breath))
