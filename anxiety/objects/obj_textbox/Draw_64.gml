@@ -51,6 +51,16 @@ if(type[page] == 1){
 	
 	//Loop through our choices, draw them, highlight the one we are selecting
 	repeat(tpl){
+		if point_in_rectangle(device_mouse_x_to_gui(0), device_mouse_y_to_gui(0), xx, yy+((ii+iy)*stringHeight), xx + txtwidth, yy+((ii+iy)*stringHeight) + stringHeight)
+		{
+			choice = ii;
+			if mouse_check_button_released(mb_left)
+			{
+				chosen = true;
+				alarm[2] = 10; 
+				audio_play_sound(select_snd_effect, priority_snd_effect, false);
+			}
+		}
 		if(choice == ii){ 
 			if(chosen) { col = select_col; }
 			else	   { col = choice_col; }
